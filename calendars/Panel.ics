@@ -1,0 +1,519 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:VGMCon 2024 - Panel
+X-WR-CALNAME:VGMCon 2024 - Panel
+BEGIN:VEVENT
+UID:a8790b5b-ae68-41c9-90d6-72b0bcb2b0e6
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T130000
+DTEND:20240419T135500
+SUMMARY:Opening Ceremonies
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:e7584be5-778c-439b-9747-4e6f32f2e2d0
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T133000
+DTEND:20240419T142500
+SUMMARY:A J-Fusion and VGM Listening Party"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:J-Fusion in VGM! Listen and learn about the Japanese Jazz Fusi
+ on greats that influenced the games you love! Bands like T-Square\, Casiop
+ ea\, and Dimension\, and games like OutRun\, Mario Kart\, and Wave Race 64
+ ! 
+END:VEVENT
+BEGIN:VEVENT
+UID:529198ed-45a0-4747-a0e7-3ab448f8838f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T141500
+DTEND:20240419T151000
+SUMMARY:Craziest Japanese Commercials"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:What does when pasta aliens\, Tommy Lee Jones\, and the Sega S
+ aturn have in common? They are part of the best\, craziest\, Japanese comm
+ ercials! Come see an hour of them! 
+END:VEVENT
+BEGIN:VEVENT
+UID:850b4784-1ce4-4a16-ba9b-56cdd6304a81
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T144500
+DTEND:20240419T154000
+SUMMARY:Live Orchestral Arrangement"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Trying to arrange music but know where to start? Staring at th
+ at orchestral score but no idea what to put where? Join Thomas Kresge (arr
+ anger and orchestrator best known for his work with The Game Brass) for a 
+ live arrangement\, as we go through a workflow from sketch to score! 
+END:VEVENT
+BEGIN:VEVENT
+UID:86562bd5-e4f8-41f3-ab86-14ccbd2b8d84
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T153000
+DTEND:20240419T162500
+SUMMARY:Music Licensing: All Your Questions Answered"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:How do you get a song on Spotify? Can you just upload to Bandc
+ amp without buying a license? Why is music licensing important anyways? Jo
+ in three music licensing experts\, Lowlander\, Lucas Guimaraes and Allen f
+ rom GameGrooves as they answer all these questions and more. 
+END:VEVENT
+BEGIN:VEVENT
+UID:7085d267-f508-4ceb-ae31-ea27904dee96
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T160000
+DTEND:20240419T165500
+SUMMARY:Play a game with your own Music and Sound FX"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Adam Durand of Bach To Rock will go over his techniques and re
+ sources to help you write music and implement it into a game that you can 
+ play. 
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6ddcbc-5fbc-419e-9a74-55699eef515e
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T164500
+DTEND:20240419T174000
+SUMMARY:Versatile VGM Variation Techniques"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:You've decided to do an arrangement or remix of Song of Storms
+ \, but forgot that the loop is only 40 or so seconds long. Rather than sim
+ ply repeat the tune\, there are a host of variation techniques that can be
+  used to add interest and variety to original works or arrangements! 
+END:VEVENT
+BEGIN:VEVENT
+UID:240b9838-0126-40ab-aa03-a0976a630b90
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T171500
+DTEND:20240419T181000
+SUMMARY:Media & Marketing for VGMers"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Media & Marketing for VGMers is a look into how musicians can 
+ leverage their own voice in the social media realm to boost engagement for
+  their releases. 
+END:VEVENT
+BEGIN:VEVENT
+UID:b5249f0f-b0f0-4080-bca8-774796b78bf6
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T180000
+DTEND:20240419T185500
+SUMMARY:Charity Album Jam Listening Party
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:e729646a-762d-4e5f-b840-e90338d3b08b
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T183000
+DTEND:20240419T192500
+SUMMARY:Hip-Hop\, VGM\, and Why You're Wrong For Not Loving Both"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Do you like VGM? I bet you do! Do you like hip-hop? Less likel
+ y in this environment! What if someone told you that hip-hop and VGM are a
+ ctually best friends who love eachother? Weirdly specifically\, Joey Z is 
+ going to tell you all about the connections between VGM & hip-hop 
+END:VEVENT
+BEGIN:VEVENT
+UID:38855d74-99bf-4a03-b3df-205be74cb0fe
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T191500
+DTEND:20240419T201000
+SUMMARY: How To Level-Up Your Arrangements"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Is your music too repetitive? Trouble emulating the genres you
+  love? Writer's block? Or do you just want to see some people yell about V
+ GM arranging? All those questions\, and more\, will be answered. Join Vide
+ o Game Arranging veterans [NAMES TBA] tackle this topic. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3d98f694-0898-4c70-bdde-274f87e58178
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T194500
+DTEND:20240419T204000
+SUMMARY:There Is No Easy Mode: Video Game Trivia"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:32e334d2-3457-402d-8b2d-ca6810ab3412
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T203000
+DTEND:20240419T212500
+SUMMARY:Minor Key Mario\, Major Key Magus
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:What if Mario's music felt depressing rather than cheerful? If
+  Pallet Town's music felt mysterious rather than cozy? If Ganon's theme wa
+ s relaxing instead of threatening? Come order janked up versions of classi
+ c video game tunes and 8-bit Music Theory will make it happen\, LIVE! 
+END:VEVENT
+BEGIN:VEVENT
+UID:fab7025b-e3d8-440f-b379-c1b3622c94b9
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T210000
+DTEND:20240419T215500
+SUMMARY:Split Screen: Free-for-All"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Join Split Screen as we play games together in a chaotic envir
+ onment\, and discover what it truly means to Split a Screen. 
+END:VEVENT
+BEGIN:VEVENT
+UID:2100fbdf-6dae-4404-a82b-efd2ea6d3988
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T220000
+DTEND:20240419T234500
+SUMMARY:The Gwobs Panel"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ff618499-9e8d-4e67-939a-acb633b19be1
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T221500
+DTEND:20240419T231000
+SUMMARY:Music Of The Sea: An Introduction To Tropical Music"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Music Of The Sea: An Introduction To Tropical Music will cover
+  a few examples of music from the Tropics around the world. This is an int
+ roduction into the characteristics make your songs have beach vibes\, whet
+ her you're going for Latin\, California\, African\, Or Hawaiian music. 
+END:VEVENT
+BEGIN:VEVENT
+UID:b099ecd5-2ba8-4615-b1c7-cf0ddb66a54a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T103000
+DTEND:20240420T112500
+SUMMARY:From Lover (of VGM) to Composer (of VGM)"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Join Karl Brueggemann and Vav as they discuss how they went fr
+ om being fans of VGM to composing VGM! They'll cover- their VGM Homage Col
+ lective- Kinetic Vibe Mind\, the challenges of creating original music ins
+ pired by retro VGM\, time management\, and more! 
+END:VEVENT
+BEGIN:VEVENT
+UID:bd400496-317d-42fb-a950-254831393a20
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T110000
+DTEND:20240420T115500
+SUMMARY:Pixelated Audio Podcast (Live)"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:The West Coast podcast comes to VGM CON. Join us as we listen 
+ to and discuss a slice of VGM history focused on the Midwest. We cover loc
+ al composers\, pinball\, edutainment and so much more! 
+END:VEVENT
+BEGIN:VEVENT
+UID:60c2ba85-3641-4c62-a34c-65f58a289846
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T121500
+DTEND:20240420T130000
+SUMMARY:VGM Quiplash
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09851e31-a5bc-49f5-ba02-0a9080232a4a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T121500
+DTEND:20240420T131000
+SUMMARY:A Dialogue for Dynamic Video Game Music"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Come take a dive into the wonderful world of dynamic video gam
+ e audio! Let's talk about our favourite interactive game soundtracks\, the
+  three types of dynamic implementation\, and some technical examples using
+  FMOD. 
+END:VEVENT
+BEGIN:VEVENT
+UID:423d6295-81c3-4fe4-a122-164fd2af002f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T130000
+DTEND:20240420T135500
+SUMMARY:How Zelda (& other games) Get Trombone ALL WRONG!"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:This is a trombone\, all the time panel! Too often\, we hear t
+ he comedic bumbling trombone in Goron Village or Groose's Theme. But what 
+ else can trombones...actually do? Come to this panel and find out! 
+END:VEVENT
+BEGIN:VEVENT
+UID:da3c2151-5681-4635-b572-2e72973eb7cb
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T133000
+DTEND:20240420T142500
+SUMMARY:Diving Into the Mystery: Motoi Sakuraba"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Let's analyze Motoi Sakuraba's early compositional style! We w
+ ill discuss Sakuraba’s prog-rock influences (i-bVI-bVII-i progressions\,
+  diverse harmonies\, complex rhythms\, melodic construction\, and orchestr
+ ation) and show how his style has evolved toward the middle of his career.
+  
+END:VEVENT
+BEGIN:VEVENT
+UID:609efc72-1c57-4e11-b1e6-816467c6da0e
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T141500
+DTEND:20240420T151000
+SUMMARY:Year 10: The History of VGM CON"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Join founder and Gamer's Rhapsody executive director\, TheToad
+ er\, on how a college student started a vgm convention in Minnesota.  
+END:VEVENT
+BEGIN:VEVENT
+UID:c3df9888-1db1-4e36-b43f-bc612024fd6d
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T144500
+DTEND:20240420T154000
+SUMMARY:The Ins and Outs of a VGM Band Leader"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Ever wanted to start your own VGM Project/Band? Ever wondered 
+ what it takes to get opportunities to take one's projects to the next leve
+ l? This panel will take a deep dive into the nitty gritty on how to do exa
+ ctly that and more! 
+END:VEVENT
+BEGIN:VEVENT
+UID:e01c1c62-6b3d-4f44-a6f9-6d067b132f8a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T153000
+DTEND:20240420T162500
+SUMMARY:STRAYLIGHT OST Composition Breakdown"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Join video game composer Rob Kovacs as he takes you through th
+ e project files\, recording techniques\, music theory and compositions fro
+ m his original soundtrack from the award-winning VR game\, STRAYLIGHT. 
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6542d0-d295-4041-aa93-b278146cbf81
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T160000
+DTEND:20240420T165500
+SUMMARY:Dwelling of Duels"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Grab your pencils! Competitors from Dwelling of Duels have whi
+ pped up a huge smattering of variations on Tim Follin's theme music from P
+ ictionary for NES! Come enjoy some tunes with the Inhabitants of the Dwell
+ ing! 
+END:VEVENT
+BEGIN:VEVENT
+UID:7895d387-c046-4f51-889e-119485128586
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T164500
+DTEND:20240420T174000
+SUMMARY:Composing ROBOGIRL - from Concept to Chiptune"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:What exactly does it take to bring new musical ideas to chiptu
+ ne life? Marty expands on the process of crafting strong musical ideas awa
+ y from digital tools and the many considerations we make when bringing the
+ se melodies into the machine. 
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f54bde-6708-48e6-a11b-b42cf950b865
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T170000
+DTEND:20240420T174500
+SUMMARY:Name That Tune w/ Jer Roque
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:3016e184-9e96-4da6-a1c9-91d9e1c22ed4
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T171500
+DTEND:20240420T204500
+SUMMARY:Earthbound USA" Full Screening and Q&A
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Experience EarthBound\, USA! This feature-length documentary t
+ ells the story of EarthBound and the geeks who wouldn't let it die through
+  interviews with legends of the fandom and Shigesato Itoi. Join Composer R
+ obbie "Gwobs" Benson and the filmmakers for a Q&A after the screening! 
+END:VEVENT
+BEGIN:VEVENT
+UID:a438eaad-7cc1-4fd9-8678-7ed3570472a0
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T180000
+DTEND:20240420T185500
+SUMMARY:Leitmotifs? In MY Super Mario Sunshine??
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Join 8-bit Music Theory as he uses his distinct style of music
+  theory analysis to break down the theme of Super Mario Sunshine\, how it'
+ s transformed throughout the game's soundtrack\, and what makes this music
+  so darn lovable 
+END:VEVENT
+BEGIN:VEVENT
+UID:35ae43a0-3be6-49e4-8c53-d4b4c13db948
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T190000
+DTEND:20240420T195500
+SUMMARY:The 2024 Game Music Remix Awards
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed673fc-bfe4-4387-9622-186724df6f88
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T191500
+DTEND:20240420T201000
+SUMMARY:Idol 101"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Do you want to learn about idols other than just AKB48 or Love
+  Live?! Come listen to idols and learn about some cool groups to be a WOTA
+  for! This is IDOL 101 
+END:VEVENT
+BEGIN:VEVENT
+UID:46fcb9ef-64d2-4757-a527-e4cdc7745971
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T203000
+DTEND:20240420T212500
+SUMMARY:Pub Trivia without the Pub!"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:PurpleLink's VGM Trivia - Test your knowledge of 10 VGM questi
+ ons for fabulous* prizes! *Note: Fabulousness of prizes is not guaranteed.
+  
+END:VEVENT
+BEGIN:VEVENT
+UID:099f5805-873f-46b5-b5e1-2125f132ef3f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T213000
+DTEND:20240420T222500
+SUMMARY:Experiences & Opportunities Arranging Game Music"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Eric Ladish is joined by Khrys Williams\, Andy Ru\, and Alliso
+ n Martin as they discuss their experiences arranging game music. Whether i
+ t's in a personal or professional setting\, this group has a wide range of
+  experiences to draw from as they share what opportunities are out there! 
+END:VEVENT
+BEGIN:VEVENT
+UID:a4cadcc7-b8aa-4231-a47f-809903806dc6
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T114500
+DTEND:20240420T124000
+SUMMARY:Ludomusicology: Researching Sound and Music in Video Games"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:This panel offers an introduction to ludomusicology\, the acad
+ emic study of sound and music in video games. In this panel\, we present a
+ n overview of the discipline regarding its development\, its leading schol
+ ars\, and how attendees can explore the ludomusicological landscape. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd99a31-766a-4d1f-aa9b-4e71ed93f282
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T103000
+DTEND:20240421T112500
+SUMMARY:Demistifying Big Band Jazz with VGM"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Writing music for a jazz big band can seem overwhelming to man
+ y. What harmonies do you use with all those instruments? What's the form o
+ f the tune? How do I even decide who's playing the melody? With composer\,
+  Joe Di Fiore\, all of these questions and more will be answered 
+END:VEVENT
+BEGIN:VEVENT
+UID:54eba1c1-68ae-4936-b8c7-2bcd46fda4d4
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T110000
+DTEND:20240421T115500
+SUMMARY:Secrets of ZREO's Fair Winds & Following Seas"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:The best kept secrets of ZREO's Fair Winds & Following Seas LE
+ AKED!: Find out ATLYS's secrets to recording an entire epic album remotely
+  AND from composer Ari Fisher who will disclose his favorite methods for t
+ urning simple themes into epic orchestrations and arrangements! 
+END:VEVENT
+BEGIN:VEVENT
+UID:97546efb-421c-41fa-be2f-07734ebd7d5f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T114500
+DTEND:20240421T124000
+SUMMARY:Smash Bros. Ultimate: The Alto Clef Crew Battle!"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:Do you LOVE the viola and alto clef? Do you support its orches
+ tration and engraving techniques? Alternatively - do you DESPISE the alto 
+ clef and hate seeing it written out? Regardless of which side you're on\, 
+ come enjoy  
+END:VEVENT
+BEGIN:VEVENT
+UID:074640d1-c21b-4b0f-95ba-5d608fe07ca1
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T121500
+DTEND:20240421T131000
+SUMMARY:VGM Booking"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Booking a VGM Lineup - If you've ever been curious about the i
+ mpossible decisions that go into booking all of the music at your favorite
+  VGM events this is the panel for you. 
+END:VEVENT
+BEGIN:VEVENT
+UID:09af759c-2a7e-4f2a-8893-6cc6dfd85009
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T130000
+DTEND:20240421T135500
+SUMMARY:Create Era Accurate Genesis Tracks"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:This panel will highlight the unique history of the sound desi
+ gn employed by the Sega Genesis and taking those concepts into practice so
+  you can learn how to add some retro flair to any track. 
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ab3db8-8f48-4e86-9040-2e32f784a25a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T133000
+DTEND:20240421T142500
+SUMMARY:The Triforce of Starting a VGM Orchestra"
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Did you know that you can use the triforce to start a video ga
+ me orchestra? Come learn how\, as Michelle Eng shares her experience of st
+ arting a video game orchestra and helping others do so with her 15+ years 
+ of experience in the VGM orchestra community.  
+END:VEVENT
+BEGIN:VEVENT
+UID:a88238ed-481c-47ae-a233-6dca5f4c033a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T141500
+DTEND:20240421T151000
+SUMMARY:Groose (Skyward Sword)\, Mental Health\, & Purpose"
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:This panel will discuss Groose from Skyward Sword\, his charac
+ ter arc\, and how it relates comparison syndrome\, purpose\, being multi-f
+ aceted\, and being able to change. Let's get real and encourage each other
+  to be better humans! 
+END:VEVENT
+END:VCALENDAR

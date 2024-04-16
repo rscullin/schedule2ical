@@ -1,0 +1,800 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+METHOD:REQUEST
+NAME:VGMCon 2024 - Music
+X-WR-CALNAME:VGMCon 2024 - Music
+BEGIN:VEVENT
+UID:da5d1682-7b4f-4c75-8991-8221b719deef
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T133000
+DTEND:20240419T142500
+SUMMARY:Geekswag
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Geekswag is a VGM rapper-singer duo\, who strive to bring geek
+ y lyricism\, smooth vocals\, and dynamic performance energy to every show!
+  
+END:VEVENT
+BEGIN:VEVENT
+UID:3360fff0-231b-417d-bb24-3341336d2914
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T140000
+DTEND:20240419T144500
+SUMMARY:Nada Existe
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Being coined as an oneiric electropunk collective\, Nada Exist
+ e has been around since 2010 making records with the concept of being soun
+ dtracks of movies based on video games that don't exist. Their live sets h
+ ave an industrial feel with guitars and electronics 
+END:VEVENT
+BEGIN:VEVENT
+UID:22e99370-6b6e-446c-a7ac-27a596e923fb
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T140000
+DTEND:20240419T145500
+SUMMARY:Katie Shesko
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Flute Enchantress Katie Shesko is weaving melodies from video 
+ games and anime realms. In her home studio\, she crafts and records captiv
+ ating video game soundscapes that enchant gamers and anime enthusiasts ali
+ ke. Join her on a symphonic journey through virtual worlds. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbdafdd-f95d-459f-82bb-80f88d727298
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T143000
+DTEND:20240419T152500
+SUMMARY:FrolicChris
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:FrolicChris plays piano and sings classic VGM with true passio
+ n and original arrangements. Journey through SEGA hits like Sonic\, Phanta
+ sy Star\, Streets of Rage\, Golden Axe and more  along with dreamy origina
+ ls\, all reimagined and performed live. 
+END:VEVENT
+BEGIN:VEVENT
+UID:be20070e-3b3f-484d-9855-5b15ed893f05
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T150000
+DTEND:20240419T154500
+SUMMARY:Balkan Bleeps
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Balkan Bleeps brings folkmusic from the Balkans to the Nintend
+ o Gameboy with multi-genre\, multi-instrumental talent. Whether it's back 
+ to the 80's or the 1800's\, this is one banger nostalgia trip you won't wa
+ nt to miss! 
+END:VEVENT
+BEGIN:VEVENT
+UID:7da37f86-b3be-4431-baa7-5bd0b89393fc
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T150000
+DTEND:20240419T155500
+SUMMARY:Open World Percussion
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Percussionists from all over the VGM scene come together to fo
+ rm a live VGM percussion ensemble! Featuring V-Ron Media\, Nico Mendoza\, 
+ Matt Silverberg (MarimbaMatt)\, Evan Carville\, and Sean Hanson. There wil
+ l be adrenaline filled backing tracks and melodic instruments. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3a3700e8-344a-438c-a95e-1ee45da75239
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T153000
+DTEND:20240419T162500
+SUMMARY:Unfocused in IA
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Unfocused in IA\, aka Nalani Proctor\, is a solo singer/songwr
+ iter who enjoys playing indie games as well as writing and performing song
+ s about games and covering her favorite video game songs. 
+END:VEVENT
+BEGIN:VEVENT
+UID:476742e4-4a72-4d9a-83e2-4fa5e941ef90
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T160000
+DTEND:20240419T165500
+SUMMARY:The Bards Quartet
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:The Bards Quartet is Minneapolis' very own video game music st
+ ring quartet! We perform music from a wide variety of games because each o
+ f our members also arranges for our group. Since we all like different gam
+ es\, we get one heck of a diverse repertoire. 
+END:VEVENT
+BEGIN:VEVENT
+UID:f79a93b8-a960-4c10-86f2-16de7d0bd9d3
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T163000
+DTEND:20240419T172500
+SUMMARY:Super Marcato Bros.
+LOCATION:Boss Stage/Regency
+DESCRIPTION:The Super Marcato Bros are an energetic 4-piece based in the T
+ win Cities\, MN. They combine authentic and nostalgic original system soun
+ ds with a live band energy. 
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4133f4-4285-4e02-a33a-b286034d13a2
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T170000
+DTEND:20240419T174500
+SUMMARY:Delicious Nick
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Delicious Nick: A Sweet Jams and Savory Licks. Unlock the reci
+ pe for a musical sampler of melted faces\, funky beats\, and fresh beats w
+ ith a garnish of chilled vibes. 
+END:VEVENT
+BEGIN:VEVENT
+UID:354ec0f6-8bd3-419a-b412-869acfbdfefa
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T170000
+DTEND:20240419T175500
+SUMMARY:housethegrate
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:One of the early purveyors of VGM\, housethegrate has been sha
+ ring arrangements since 2004 and hasn't stopped. 
+END:VEVENT
+BEGIN:VEVENT
+UID:944a2887-1e41-4aea-98a4-4d2934d7a12e
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T173000
+DTEND:20240419T182500
+SUMMARY:mezzocarattere feat. 88bit
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:88bit / mezzo is Rob Kovacs (88bit) and Annie Rosen (mezzocara
+ ttere)\, performing an intimate piano-vocal recital of operatic VGM. There
+ 's more than just Celes\, but there will be Celes\, we promise. 
+END:VEVENT
+BEGIN:VEVENT
+UID:65ea065b-1659-462c-89a1-ff1b8e3bc2d3
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T180000
+DTEND:20240419T185500
+SUMMARY:Quick Save
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Quick Save is a 6 piece VGM Jazz/Rock Fusion band from Baltimo
+ re\, Maryland.  They offer a unique blend of everything from cult classics
+ \, obscure deep cuts\, and fan favorites.  
+END:VEVENT
+BEGIN:VEVENT
+UID:664f8382-5f98-4432-b1c5-54378e51d949
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T183000
+DTEND:20240419T192500
+SUMMARY:Do a Barrel Roll!
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Do a Barrel Roll! is a groove-centric VGM band covering classi
+ cs and deep cuts\, featuring mash-ups with popular music from outside the 
+ VGM world 
+END:VEVENT
+BEGIN:VEVENT
+UID:26b55848-10b5-4f6f-b15d-0f8410bad4c4
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T190000
+DTEND:20240419T195500
+SUMMARY:John Bowler
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Piano covers with lots of notes! 
+END:VEVENT
+BEGIN:VEVENT
+UID:15ad083a-1b6d-4f70-9f60-1cc9785d19f7
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T190000
+DTEND:20240419T195500
+SUMMARY:Kat Felicis Ioco
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Local symphonic metal artist Kat Felicis Ioco performs her arr
+ angements of vocal video game music in her multi-layered style featuring c
+ lassically trained female vocals\, pounding drums\, powerful guitars\, emo
+ tive piano\, and sweeping orchestra. 
+END:VEVENT
+BEGIN:VEVENT
+UID:83da7c54-3f92-4361-a19f-29f70e952f95
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T191500
+DTEND:20240419T200000
+SUMMARY:The Last Seahorse
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:The Last Seahorse is a DJ of Anime Technology specializing in 
+ VGM\, Anime\, and Japanese EDM. Seahorse is known for their chaotic genre 
+ blends going from Metal to trance\, trance to Shredwave\, moving into Euro
+ beat\, and then finishing with Ska. 
+END:VEVENT
+BEGIN:VEVENT
+UID:191941d5-7d25-452f-8d25-e7225548efd9
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T200000
+DTEND:20240419T205500
+SUMMARY:Arc Impulse
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Andrew\, Zach and Bobby play loud rock music versions of class
+ ic and modern video games\, led by spicy Keytars\, rockin' guitars and big
+  boomin' drums. Come see multimedia experience that some folks call "a wil
+ d fun and big energy video game rock show!!" 
+END:VEVENT
+BEGIN:VEVENT
+UID:70b11164-4309-413d-99d6-b4cb31b1665b
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T203000
+DTEND:20240419T212500
+SUMMARY:Celestial Fury
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Celestial Fury is a progressive metal act putting heavy and em
+ otional twists to your favourite VGM tunes! The music incorporates orchest
+ ral and electronic elements to accompany downtuned riffs. 
+END:VEVENT
+BEGIN:VEVENT
+UID:4c76b1f0-dd10-402f-aeba-6df9c5537319
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T203000
+DTEND:20240419T212500
+SUMMARY:Windfall
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Windfall is a (mostly) Minneapolis based VGM acoustic fusion b
+ and consisting of Karl Brueggemann\, Becca Michaelson\, Nico Mendoza\, and
+  Jaime Pelaez. They'll perform expressive arrangements of classics and dee
+ p cuts with laidback\, good vibes. 
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e6a0eb-a84a-479e-b562-61b8c84c9d48
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T213000
+DTEND:20240419T222500
+SUMMARY:The Tiberian Sons
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Hailing from all across North America\, The Tiberian Sons blen
+ d the fireworks and bombast of symphonic cheese with the relentless shred 
+ of guitar-driven progressive metal. Do you like time signatures and japane
+ se VGM deep cuts? We bring those in spades 
+END:VEVENT
+BEGIN:VEVENT
+UID:cf663e2e-37d1-4bbc-acff-9d2c38b5ce18
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T220000
+DTEND:20240419T225500
+SUMMARY:Superjuice & coobie
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Hop on a cruise from Ibiza to Gensokyo with VGMCon alumni sele
+ ctors and Touhou/anime music enthusiasts Superjuice and coobie\, playing a
+  special “Donkey Kong’s Jungle Beatz” B2B set of face-melting drum a
+ nd bass VGM choonz. Life begins at 175bpm! 
+END:VEVENT
+BEGIN:VEVENT
+UID:613853ee-8460-4f9e-b91c-7659d4e848c8
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T230000
+DTEND:20240419T235500
+SUMMARY:Gunderslam
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Gunderslam delivers a high energy performance from your favori
+ te video game tunes! Get ready to throw down to hits from games such as So
+ nic\, Zelda\, Hades\, and even Silent Hill! Never a dull moment when the b
+ and brings the heat! You don't want to miss this! 
+END:VEVENT
+BEGIN:VEVENT
+UID:847d3c6e-df88-4a3b-8733-c14445739e4a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240419T002500
+DTEND:20240419T233000
+SUMMARY:Vector U
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:EXTREMELY DANK EDM VGM from your friendly neighborhood remixer
+  Vector U! Get ready to relive your childhood\, dance your butt off\, stom
+ p on some goombas\, or all of the above! 
+END:VEVENT
+BEGIN:VEVENT
+UID:96e4ba9a-723a-4103-99f9-121114cb04b8
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T103000
+DTEND:20240420T112500
+SUMMARY:Single Players
+LOCATION:Boss Stage/Regency
+DESCRIPTION:8-bit & The Single Players are thrilled to bring blazing solos
+ \, feel good grooves\, and intricate arrangements to VGMCon\, covering a h
+ ealthy mixture of classic vgm favourites and hidden gems. Featuring specia
+ l guest performers well known in the video game music scene! 
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9d79e9-73f2-4eff-ad83-657cfc440f5b
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T110000
+DTEND:20240420T115500
+SUMMARY:Freeform
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Jamin and Zeynep are Freeform\, classically-trained musicians 
+ brought together by their love for video game music. They play freeform: F
+ rom pre-written arrangements to more jam-session-style semi-improvised pie
+ ces\, stretching across a wide variety of genres and styles. 
+END:VEVENT
+BEGIN:VEVENT
+UID:039951be-6737-4e3f-b89b-4f7b7af01c20
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T110000
+DTEND:20240420T115500
+SUMMARY:The Arkadian
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:The Arkadian is BACK! VGM CON welcomes the bad boy of VGM as h
+ e brings a high energy rock n roll spectacle filled with originals and cov
+ ers spanning your favorite video game titles. 
+END:VEVENT
+BEGIN:VEVENT
+UID:f2315748-21a3-4691-ad48-420cd659cba8
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T110000
+DTEND:20240420T120000
+SUMMARY:Baltimore Gamer Symphony Orchestra & Choir
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:The Baltimore Gamer Symphony Orchestra & Choir celebrated our 
+ 10th anniversary this year! Join us for selections from our recently-relea
+ sed winter concert film\, featuring some of our favorite pieces across our
+  history. Featuring pieces from Final Fantasy\, Civilization\, and more! 
+END:VEVENT
+BEGIN:VEVENT
+UID:956180b9-1762-4c04-920b-ed5e4d7f2125
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T120000
+DTEND:20240420T125500
+SUMMARY:Charles Ritz
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Charles Ritz is a multi-instrumentalist and arranger based in 
+ Brooklyn\, NY\, and he can’t wait to present a concert of his electrifyi
+ ng soul-pop infused renditions of VGM! 
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5f4218-1f63-42ed-891e-f3d8c67eedce
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T123000
+DTEND:20240420T132500
+SUMMARY:Jer Roque + Natalie Clyne
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Jer Roque + Natalie Clyne are a versatile piano/vocalist duo w
+ ho love reimagining video game music\, never limited by style or genre. 
+END:VEVENT
+BEGIN:VEVENT
+UID:03921f93-95a9-4e78-a7aa-dd25dfd0f8b6
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T123000
+DTEND:20240420T132500
+SUMMARY:Windfall
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Windfall is a (mostly) Minneapolis based VGM acoustic fusion b
+ and consisting of Karl Brueggemann\, Becca Michaelson\, Nico Mendoza\, and
+  Jaime Pelaez. They'll perform expressive arrangements of classics and dee
+ p cuts with laidback\, good vibes. 
+END:VEVENT
+BEGIN:VEVENT
+UID:a759905c-4279-4275-b534-e2f616d67f8f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T133000
+DTEND:20240420T142500
+SUMMARY:Lucas Guimaraes
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Long time video game arranging vet\, Lucas Guimaraes\, joins f
+ orces with an all star cast of musicians to bring hard hitting arrangement
+ s of beloved video game tunes. This set will blow your face off. 
+END:VEVENT
+BEGIN:VEVENT
+UID:94c3c28f-7807-491d-a086-3fb785ab9fa1
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T140000
+DTEND:20240420T144500
+SUMMARY:Hanako’s Idol Show
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Hanako’s Idol Show is a singing performance consisting of su
+ mmer themed songs presented by Hanako Hoshizora and upcoming VTuber group 
+ Internet iDOLs.  
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1aa06a-44f0-4eca-a235-65da1e5b7991
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T140000
+DTEND:20240420T145500
+SUMMARY:ATLYS
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Your favorite music from the Legend of Zelda Windwaker\, with 
+ a breath of fresh air and humanity\, performed live by string quartet ATLY
+ S\, winners of Best Symphonic Track AND Listener's Choice Award last year.
+  
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2d140a-eba5-4275-bca6-2196f3a2ea4d
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T140000
+DTEND:20240420T145500
+SUMMARY:L'Accordeon
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Stop by\, ring the bell\, order a cup of accordion from L'A! 
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a952c9-5663-4fb6-a813-a0e20744398e
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T150000
+DTEND:20240420T154500
+SUMMARY:GR3YSON
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:A unique artist to say the least\, Brooklyn native now Bethleh
+ em\, PA resident GR3YS0N is blazing a trail in his own niche. Incorporatin
+ g his passion for video games and anime he has developed a brand of music 
+ that goes over very well with a thus far untapped market.  
+END:VEVENT
+BEGIN:VEVENT
+UID:232a12d7-4b27-472b-a2f8-1c6b7664b1db
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T150000
+DTEND:20240420T155500
+SUMMARY:Tumbao Multiplayer
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Dive into a Latin-infused video game music experience as we ce
+ lebrate the depth and richness of Latin music traditions through the lens 
+ of video game music. With Tumbao Multiplayer's unique arrangements\, we br
+ ing a whole new flavor to the VGM scene. 
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c9713d-ab33-4c6c-9ce6-f1b7f0ebb39a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T153000
+DTEND:20240420T162500
+SUMMARY:Bi Score
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Ian & Carrie's Bi-Coastal Goblin Brigade That Makes Music To S
+ core To\, otherwise known as BI SCORE\, is VGM's most annoying power coupl
+ e. Consisting of CA-born Ian Cowell and MD native Carrie Wood\, this duo i
+ s here to lay down the tastiest riffs in VGM! 
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8227e6-1805-4cba-8c4c-fb335eb20146
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T153000
+DTEND:20240420T162500
+SUMMARY:Goosaphone
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d65e7a-6f08-4854-9aef-9bc22e1c9cbe
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T160000
+DTEND:20240420T163000
+SUMMARY:ThaGataNegrra
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:ThaGataNegrra is the kawaii-hop vanguard whose "full-bottle\, 
+ in-your-face" sound pounced the second and third seasons of the hit Hulu s
+ how "East Los High". Dubbed "NJ's Real-Life Catwoman"\, the Kawaii Kunai a
+ rtist has hit the stages of FanExpo Philadelphia\, MAGFest\, and ECGX. \n
+END:VEVENT
+BEGIN:VEVENT
+UID:590400b2-adc0-4493-a1ab-4a47413cf02f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T163000
+DTEND:20240420T172500
+SUMMARY:Split Screen
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Split Screen is a jazz fusion band that performs new and inven
+ tive arrangements of music from a wide variety of video games. 
+END:VEVENT
+BEGIN:VEVENT
+UID:31bef3ad-09fa-4cda-a1c8-60b94fb8b87f
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T170000
+DTEND:20240420T175500
+SUMMARY:Swell Rell
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Swell Rell is a nerdcore rapper hailing from Tampa\, Florida. 
+ His love of videos games\, comics\, anime\, basketball and hip-hop is evid
+ ent while listening to music. Known for his energetic performances\, Swell
+  Rell blends nerdy and swaggy effortlessly. 
+END:VEVENT
+BEGIN:VEVENT
+UID:45bcc47a-5c15-460b-9e03-76fdbf907e3c
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T170000
+DTEND:20240420T175500
+SUMMARY:Whispy Woodwinds
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:A woodwind quartet enters the fray! With heart-pumping arrange
+ ments of a variety of video game tunes\, Whispy Woodwinds will be sure to 
+ blow you away. 
+END:VEVENT
+BEGIN:VEVENT
+UID:76f36b92-b09c-4ed0-abfb-faed6e9e75fe
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T180000
+DTEND:20240420T184500
+SUMMARY:The Limit Breakers
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:The Limit Breakers are a 7-piece vgm fusion rock band based in
+  Jacksonville\, Fl\, United States. The band seeks to break all of the lim
+ its by fusing metal\, rock\, ska\, and electronic elements into a highly e
+ nergetic and positive show.  
+END:VEVENT
+BEGIN:VEVENT
+UID:56330418-9054-4e7d-ba75-492802e9fee9
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T183000
+DTEND:20240420T192500
+SUMMARY:Super Strikers
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Super Strikers consists of Stemage\, ap0c\, Dino Lionetti\, an
+ d Kevin Ragone\, playing music from Bravewave's Mega album GIANTS 
+END:VEVENT
+BEGIN:VEVENT
+UID:21812224-b832-42b8-aceb-3e1a05dec018
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T190000
+DTEND:20240420T195500
+SUMMARY:OrchKeystra
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:OrchKeystra VGM Live Remix Dive into reimagined VGM classics b
+ y OrchKeystra. A one-person band blending the artistry of DJ elements and 
+ live-looping\, unleashing a dynamic twist on nostalgic hits that will have
+  you dancing from the first beat. 
+END:VEVENT
+BEGIN:VEVENT
+UID:bdaf262a-9d5b-4990-973c-9492507e5c60
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T200000
+DTEND:20240420T205500
+SUMMARY:Jonathan Aldrich
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Jonathan Aldrich ("jdaster64") is a pianist\, and longtime fan
+  of Nintendo VGM (especially the Mario and Kirby series)\, jazz piano\, an
+ d the VGM cover scene in general. His inspirations include Brubeck\, Vince
+  Guaraldi\, and VGM cover musicians such as the Consouls and the OneUps. 
+END:VEVENT
+BEGIN:VEVENT
+UID:1d999bed-03ea-44ec-bad8-8b37a32f92c0
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T200000
+DTEND:20240420T205500
+SUMMARY:Ro Panuganti Prog Experience
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Ro Panuganti Prog Experience is a diverse metal experience\, p
+ erforming heavy\, progressive tributes to Zelda\, Undertale\, and more! Wi
+ th 7 string guitars\, FX-laden visuals and a band of technical wizards\, R
+ o's music brings something new and extra heavy to the world of VGM. 
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8227f9-5f27-4fd2-a989-96f28b47b19c
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T203000
+DTEND:20240420T212500
+SUMMARY:String Player Gamer
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:After falling in love with the music of Legend of Zelda: A Lin
+ k to the Past\, eleven-year-old Diwa de Leon's video game music journey to
+ ok root. 
+END:VEVENT
+BEGIN:VEVENT
+UID:faac0c54-83ff-42d6-b4bb-d23cdfc0327d
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T213000
+DTEND:20240420T222500
+SUMMARY:Knight of the Round
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Metal + Final Fantasy. That's it. With influences ranging from
+  bands such as Dimmu Borgir\, Meshuggah\, and Fear Factory\, KOTR brings a
+  unique approach to Video Game Music while paying tribute to the legendary
+  Final Fantasy soundtracks. 
+END:VEVENT
+BEGIN:VEVENT
+UID:f3789b67-2e79-4f51-8ee1-07e546e2588a
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T220000
+DTEND:20240420T225500
+SUMMARY:Theology
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Club-Ready Video Game Remixes | Mental Health 
+END:VEVENT
+BEGIN:VEVENT
+UID:b94a30ec-80b4-474b-8176-1cd75c63db45
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T230000
+DTEND:20240420T235500
+SUMMARY:Premium Vintage
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Premium Vintage is a new\, genre-defying band that will take y
+ ou back to the underworld of Hades. Throw up your horns\, bring your Ambro
+ sia\, and prepare for a sonic odyssey of Hades' iconic soundtrack that ble
+ nds classical elegance with the raw intensity of heavy metal! 
+END:VEVENT
+BEGIN:VEVENT
+UID:61f107ee-390c-4f52-9416-4d8e844fdbad
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240420T002500
+DTEND:20240420T233000
+SUMMARY:H8Ø8
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Avid speedrunner\, Youtuber\, and Twitch streamer\, the VGM he
+ avy-weight hitter “H8Ø8” returns to VGM Con spinning reworks of infam
+ ous video game melodies into face melting leads over bombastic drums and h
+ efty layered bass rhythms. 
+END:VEVENT
+BEGIN:VEVENT
+UID:d00160f8-4e38-4f72-946d-b23cc6232108
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T093000
+DTEND:20240421T102500
+SUMMARY:VGM CON Recital
+LOCATION:Boss Stage/Regency
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea545b7-3fc4-45a4-9a86-7dcf06be5739
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T110000
+DTEND:20240421T115500
+SUMMARY:ATLYS
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Your favorite music from the Legend of Zelda Windwaker\, with 
+ a breath of fresh air and humanity\, performed live by string quartet ATLY
+ S\, winners of Best Symphonic Track AND Listener's Choice Award last year.
+  
+END:VEVENT
+BEGIN:VEVENT
+UID:ddca10e6-80a4-41ce-81c2-f690d3999725
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T110000
+DTEND:20240421T115500
+SUMMARY:Ian Martyn
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Ian Martyn is a VGM composer and arranger from California.  He
+ 'll be playing some of his favorite game music covers as well as some orig
+ inals from games he has scored.  He sings and plays a variety of different
+  instruments. 
+END:VEVENT
+BEGIN:VEVENT
+UID:68d944ab-7199-41c8-81d0-a8a1adb0b974
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T110000
+DTEND:20240421T115500
+SUMMARY:WMGSO
+LOCATION:Boss Stage/Regency
+DESCRIPTION:Washington Metropolitan Gamer Symphony Orchestra (WMGSO) is a 
+ nonprofit community orchestra who exclusively performs video game music. M
+ uch like a transformer\, our small ensemble performs in multiple combinati
+ ons with vocals\, brass\, woodwinds\, strings\, and percussion. 
+END:VEVENT
+BEGIN:VEVENT
+UID:f70cb0f2-c174-4711-8deb-c7d075272abc
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T113000
+DTEND:20240421T122500
+SUMMARY:Symphony of Two
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Symphony of Two presents: JRPG Extravaganza! Prepare to enjoy 
+ some turn-based shredding in this ultimate duo of violin and electric bass
+  performing cult classics of the JRPG library. Jazz fusion and prog-style 
+ arrangements of Golden Sun\, Skies of Arcadia\, Baten Kaitos and more! 
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd9c1b0-d56f-4705-ba6b-712eb42644cc
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T120000
+DTEND:20240421T125500
+SUMMARY:Endgegner
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:The music of OG Final Fantasy 7 brought to the stage by Endgeg
+ ner in the style of a jazz and rock band. The musical highlights of the so
+ undtrack are presented in gripping arrangements and energetic live perform
+ ances.  
+END:VEVENT
+BEGIN:VEVENT
+UID:01bf1552-e133-4599-bd5b-320de180df86
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T123000
+DTEND:20240421T132500
+SUMMARY:BGSO Flute Choir
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Experience your favorite VGM tunes in a new way as the BGSO Fl
+ ute Choir performs video game music on a variety of different kinds of flu
+ te. 
+END:VEVENT
+BEGIN:VEVENT
+UID:b8aebd3c-31ea-4a95-85fd-a4654d5e088b
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T130000
+DTEND:20240421T135500
+SUMMARY:CelloKat
+LOCATION:Hero Stage/Conference Room E
+DESCRIPTION:Meet CelloKat\, the cosplaying cellist who wields her instrume
+ nt as a magical portal into the world of anime and video game music. With 
+ a passion for both music and cosplay\, CelloKat seamlessly combines her tw
+ o loves\, captivating audiences at comic and nerd conventions nationwide. 
+END:VEVENT
+BEGIN:VEVENT
+UID:00e0b90f-cbf5-4f28-ae5e-91d93576d012
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T131500
+DTEND:20240421T140000
+SUMMARY:Multi-Memory Controller
+LOCATION:Warp Stage/Board Room 2
+DESCRIPTION:Multi-Memory Controller brings live guitars\, keyboards and vo
+ cals backed with drums\, choirs\, an orchestra of sound chips and stunning
+  visuals from classic video games to craft the ultimate fusion of power me
+ tal and chiptunes. Welcome to the world of unholy epic chipmetal!  
+END:VEVENT
+BEGIN:VEVENT
+UID:d15b84d4-ed15-4b52-82a0-7fbebef2ff17
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T140000
+DTEND:20240421T145500
+SUMMARY:Flurry of Sound
+LOCATION:Key Stage/Downstairs Atrium
+DESCRIPTION:Hello! I'm Jackson Byrne aka Flurry of Sound and I do lyrical 
+ covers of video game music. I will go from Super Mario 64 to Bastion to Ki
+ ngdom Hearts to Animal Crossing sometimes creating lyrics for pieces that 
+ don't have them. Come on down to my performance to have a good time! 
+END:VEVENT
+BEGIN:VEVENT
+UID:488f232f-019d-4169-9e4f-a7305748398d
+SEQUENCE:0
+DTSTAMP:20240416T234440Z
+DTSTART:20240421T140000
+DTEND:20240421T145500
+SUMMARY:The Bards Quartet
+LOCATION:Boss Stage/Regency
+DESCRIPTION:The Bards Quartet is Minneapolis' very own video game music st
+ ring quartet! We perform music from a wide variety of games because each o
+ f our members also arranges for our group. Since we all like different gam
+ es\, we get one heck of a diverse repertoire. 
+END:VEVENT
+END:VCALENDAR

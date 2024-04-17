@@ -88,6 +88,12 @@ got(vgmUrl).then(response => {
                 const actualStartDate = moment(day + matches[1], 'dddd DD MMM YYYY h:mm a').add(-5, "hours")
                 const actualEndDate = moment(day + matches[2], 'dddd DD MMM YYYY h:mm a').add(-5, "hours")
 
+                // Fix for panels that span two days during overnight panels
+                if(matches[1].endsWith("p") && matches[2].endsWith("a"))
+                {
+                    actualEndDate.add(1,"day")
+                }
+
                 // console.log("starts at " + actualStartDate + ", ends at " + actualEndDate)
 
                 // Remove quotes from the title

@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:VGMCon 2024 - Activity
 X-WR-CALNAME:VGMCon 2024 - Activity
 BEGIN:VEVENT
-UID:bc8e3cbf-0426-4962-9891-4a57c69bc8d7
+UID:59ef5d78-ff57-487f-a387-b0504b388321
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T150000
 DTEND:20240419T160000
 SUMMARY:Guided Jams
@@ -19,9 +19,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:021014e0-2456-4915-81cc-9ff2f4f6a239
+UID:01754c23-3ed7-4881-9343-3337a3d28384
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T160000
 DTEND:20240419T180000
 SUMMARY:How to Play VGM When a Rapper Enters the Jam
@@ -32,9 +32,9 @@ DESCRIPTION:Jam out to some of your favorite VGM songs with a live rapper!
  he same level as any instrument. Hosted by JOEY Z64. 
 END:VEVENT
 BEGIN:VEVENT
-UID:52a61be6-ddc7-4865-9375-9ed1b1d85461
+UID:6f1e3cb8-ebe6-456c-86cf-9ec15a654b33
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T180000
 DTEND:20240419T200000
 SUMMARY:Guided Jams
@@ -46,9 +46,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:1d1c69b0-77cd-45d9-b2af-00d37159796a
+UID:52de8ca8-40c7-4377-8a8b-90d97e15f0b7
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T180000
 DTEND:20240419T200000
 SUMMARY:Guided Jams
@@ -60,9 +60,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:835b5b60-ba39-4b5d-8be4-aa943479d070
+UID:d0f372ec-04a9-47e3-9ca5-47c10e8223f6
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T200000
 DTEND:20240419T210000
 SUMMARY:Sight-Reading Power Hour
@@ -73,9 +73,9 @@ DESCRIPTION:Work your sight-reading chops with curated courses of deep cut
  breather and jump back in on the next course! 
 END:VEVENT
 BEGIN:VEVENT
-UID:bdd1ed2b-9f0c-49cf-b6ce-019771a62702
+UID:b6f9d345-3fa4-430e-9809-759acae88634
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T210000
 DTEND:20240419T230000
 SUMMARY:Jams\, Circles\, Games\, & Cyphers: Different Types of Jams
@@ -87,11 +87,11 @@ DESCRIPTION:Musicians of all skill levels and backgrounds learn and practi
  e backgrounds and skill levels. 
 END:VEVENT
 BEGIN:VEVENT
-UID:a44179cc-d38f-4c8a-b45f-65784616ad23
+UID:288901a9-3c1e-497a-9c35-d914a1c2f15a
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
-DTSTART:20240419T010000
-DTEND:20240419T230000
+DTSTAMP:20240417T003454Z
+DTSTART:20240419T230000
+DTEND:20240420T010000
 SUMMARY:Guided Jams
 LOCATION:Jam Space/Conference Room C
 DESCRIPTION:We have a huge library of video game lead sheets -- powered by
@@ -101,9 +101,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:9a91ce79-32cf-4c57-bed4-4ed1b5963616
+UID:291d9c7c-6191-4641-b9cd-d78418706028
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240419T210000
 DTEND:20240419T230000
 SUMMARY:Jams\, Circles\, Games\, & Cyphers: Different Types of Jams
@@ -115,9 +115,9 @@ DESCRIPTION:Musicians of all skill levels and backgrounds learn and practi
  e backgrounds and skill levels. 
 END:VEVENT
 BEGIN:VEVENT
-UID:b2d731fc-a381-4d5c-abd3-da185b5f621e
+UID:b4cc9ad4-8746-4739-9f65-d1ae9cc50bbf
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T100000
 DTEND:20240420T150000
 SUMMARY:Guided Jams
@@ -129,9 +129,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:545689cb-c7d2-4d49-a889-66b9142fc92b
+UID:7f2841de-e0f1-4abe-bbe6-6e5d05b97d41
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T100000
 DTEND:20240420T150000
 SUMMARY:Guided Jams
@@ -143,9 +143,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:ceb20604-cb58-420a-99f9-f80ba3df97c6
+UID:27dc94db-f99b-4da4-8df4-3bafa889f2ba
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T150000
 DTEND:20240420T160000
 SUMMARY:Smash Bros. Ultimate
@@ -157,9 +157,9 @@ DESCRIPTION:Come to throw down in Smash\, or come to be part of the backin
   instrument! 
 END:VEVENT
 BEGIN:VEVENT
-UID:b1241865-dbc8-4020-a4c6-b9fb33e8a4aa
+UID:6a90d804-a68e-4d65-9194-7ae68a68e775
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T160000
 DTEND:20240420T200000
 SUMMARY:Guided Jams
@@ -171,9 +171,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:7d164ed6-77d4-4d29-b42b-877ebf79aad3
+UID:97984940-4f79-4055-87f3-11b17ff19368
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T160000
 DTEND:20240420T200000
 SUMMARY:Guided Jams
@@ -185,9 +185,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:757a9e13-b6a2-43c3-a301-d1ee91e91604
+UID:4991b630-32a4-4f8f-8656-8ca967fd7600
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T200000
 DTEND:20240420T210000
 SUMMARY:Musical Charades
@@ -198,9 +198,9 @@ DESCRIPTION:Which team of 2-5 will get the audience to guess the most of t
  rity unfold.  
 END:VEVENT
 BEGIN:VEVENT
-UID:074605d4-bde9-42d8-9dee-78d2ee76d991
+UID:747a8e65-33e0-494b-b3d3-7df276addebf
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T210000
 DTEND:20240420T230000
 SUMMARY:Wheel of Arrangement
@@ -212,9 +212,9 @@ DESCRIPTION:Learn a lot about jam-mate communication as we throw twists at
  o the Wheel of Arrangement. 
 END:VEVENT
 BEGIN:VEVENT
-UID:df7d1b59-9bc7-4459-99cf-7ab86a4385c2
+UID:ef58666d-1e2d-4128-b4cf-ff559e01a5f7
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T010000
 DTEND:20240420T020000
 SUMMARY:Open Jams
@@ -224,11 +224,11 @@ DESCRIPTION:Any sort of jamming goes! You wanna use VGLS? That’s cool. Y
  s at 300 bpm? You do you. Absolutely no Freebird. 
 END:VEVENT
 BEGIN:VEVENT
-UID:eaf33076-86f2-4f90-bef3-cdf6aa01a626
+UID:1d300cd1-5baf-42cc-8ea1-478d04f1a218
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
-DTSTART:20240420T020000
-DTEND:20240420T230000
+DTSTAMP:20240417T003454Z
+DTSTART:20240420T230000
+DTEND:20240421T020000
 SUMMARY:Open Jams
 LOCATION:Jam Space/Conference Room C
 DESCRIPTION:Any sort of jamming goes! You wanna use VGLS? That’s cool. Y
@@ -236,9 +236,9 @@ DESCRIPTION:Any sort of jamming goes! You wanna use VGLS? That’s cool. Y
  s at 300 bpm? You do you. Absolutely no Freebird. 
 END:VEVENT
 BEGIN:VEVENT
-UID:9862b3bd-11cc-4605-9762-e3b58bfe17f1
+UID:caaef1ac-3184-4178-ae49-2011b3eb9363
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240420T210000
 DTEND:20240420T230000
 SUMMARY:Wheel of Arrangement
@@ -250,9 +250,9 @@ DESCRIPTION:Learn a lot about jam-mate communication as we throw twists at
  o the Wheel of Arrangement. 
 END:VEVENT
 BEGIN:VEVENT
-UID:84f91c14-2c2c-43a4-bee4-3de2553f6fd4
+UID:0ab5d2e9-10fc-4ac9-bbb1-b78e61eac262
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240421T100000
 DTEND:20240421T150000
 SUMMARY:Guided Jams
@@ -264,9 +264,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:74fd07f0-06ab-420d-9dab-565b312d6bfd
+UID:07f37fde-524d-4bee-884e-8f5ab33b987b
 SEQUENCE:0
-DTSTAMP:20240417T001950Z
+DTSTAMP:20240417T003454Z
 DTSTART:20240421T100000
 DTEND:20240421T150000
 SUMMARY:Guided Jams

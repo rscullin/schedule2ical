@@ -45,31 +45,31 @@ got(vgmUrl).then(response => {
         var entry = el.getElementsByClassName("workshop")
 
         Array.from(entry).forEach((ell) => {
-            var event = ell.getElementsByTagName("h4")[0].innerHTML.replace("\n", " ").replace("&amp;", "&");
+            var event = ell.getElementsByTagName("h4")[0].innerHTML.replaceAll("\n", " ").replace("&amp;", "&");
 
             // location and presenter names are backwards?
             var location = ""
             if(ell.getElementsByClassName("presenter").length !== 0)
             {
-                location = ell.getElementsByClassName("presenter")[0].innerHTML.replace("&amp;", "&");
+                location = ell.getElementsByClassName("presenter")[0].innerHTML.replaceAll("&amp;", "&");
             }
 
             var presenter = ""
             if(ell.getElementsByClassName("location").length !== 0)
             {
-                presenter = ell.getElementsByClassName("location")[0].textContent.replace("&amp;", "&");
+                presenter = ell.getElementsByClassName("location")[0].textContent.replaceAll("&amp;", "&");
             }
 
             var theme = ""
             if(ell.getElementsByClassName("theme").length !== 0)
             {
-                theme = ell.getElementsByClassName("theme")[0].textContent.replace("&amp;", "&");
+                theme = ell.getElementsByClassName("theme")[0].textContent.replaceAll("&amp;", "&");
             }
 
             var description = ""
             if(ell.getElementsByClassName("description").length !== 0)
             {
-                description = ell.getElementsByClassName("description")[0].textContent.replace("\n", " ").replace("&amp;", "&");
+                description = ell.getElementsByClassName("description")[0].textContent.replaceAll("\n", " ").replaceAll("&amp;", "&");
             }
 
             console.log()
@@ -91,8 +91,7 @@ got(vgmUrl).then(response => {
                 // console.log("starts at " + actualStartDate + ", ends at " + actualEndDate)
 
                 // Remove quotes from the title
-                let eventTitle = matches[3].replace("\"","")
-                // let eventTitle = matches[3]
+                let eventTitle = matches[3].replaceAll('"',"")
 
                 // Create the actual event
                 calendarDict[theme].createEvent({

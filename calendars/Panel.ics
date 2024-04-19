@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:VGMCon 2024 - Panel
 X-WR-CALNAME:VGMCon 2024 - Panel
 BEGIN:VEVENT
-UID:b02e6714-f480-4a32-98f0-3fba88b9d8c4
+UID:d419181f-8be8-4685-962f-3accf06a9807
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T130000
 DTEND:20240419T135500
 SUMMARY:Opening Ceremonies
@@ -15,9 +15,9 @@ LOCATION:Panels 1/Conference Room E
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:2725ba94-31f9-4cc9-a04c-a0e0e4614c37
+UID:a6955a05-fa3f-42db-a48a-bb78c010341a
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T133000
 DTEND:20240419T142500
 SUMMARY:A J-Fusion and VGM Listening Party
@@ -28,9 +28,9 @@ DESCRIPTION:J-Fusion in VGM! Listen and learn about the Japanese Jazz Fusi
  ! 
 END:VEVENT
 BEGIN:VEVENT
-UID:a3abf447-890e-4385-b20f-05892aa71296
+UID:a1c1e847-7f10-4366-8d71-ba753b8afa4f
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T141500
 DTEND:20240419T151000
 SUMMARY:Craziest Japanese Commercials
@@ -40,9 +40,9 @@ DESCRIPTION:What does when pasta aliens\, Tommy Lee Jones\, and the Sega S
  ercials! Come see an hour of them! 
 END:VEVENT
 BEGIN:VEVENT
-UID:51336a2f-2b8f-4a22-a757-98d7181f3d84
+UID:738b711b-eba2-4f6f-a773-44c855e132eb
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T144500
 DTEND:20240419T154000
 SUMMARY:Live Orchestral Arrangement
@@ -53,9 +53,9 @@ DESCRIPTION:Trying to arrange music but know where to start? Staring at th
  live arrangement\, as we go through a workflow from sketch to score! 
 END:VEVENT
 BEGIN:VEVENT
-UID:614e9eaf-5c69-45e8-9ad1-355e24642e18
+UID:5641734f-6f1a-4a7d-ba95-7e1362ae85a8
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T153000
 DTEND:20240419T162500
 SUMMARY:Music Licensing: All Your Questions Answered
@@ -66,9 +66,9 @@ DESCRIPTION:How do you get a song on Spotify? Can you just upload to Bandc
  rom GameGrooves as they answer all these questions and more. 
 END:VEVENT
 BEGIN:VEVENT
-UID:ef71c458-7a1a-4026-937e-9f2bf5b47212
+UID:c9e0efbe-303e-4662-90a8-b0e657a80054
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T160000
 DTEND:20240419T165500
 SUMMARY:Play a game with your own Music and Sound FX
@@ -78,9 +78,9 @@ DESCRIPTION:Adam Durand of Bach To Rock will go over his techniques and re
  play. 
 END:VEVENT
 BEGIN:VEVENT
-UID:81077936-f241-4586-8b97-5b07a5520731
+UID:9a17a63e-deea-49cd-bbf8-8b1ef9ca04a2
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T164500
 DTEND:20240419T174000
 SUMMARY:Versatile VGM Variation Techniques
@@ -91,9 +91,9 @@ DESCRIPTION:You've decided to do an arrangement or remix of Song of Storms
   used to add interest and variety to original works or arrangements! 
 END:VEVENT
 BEGIN:VEVENT
-UID:ff199c4c-00ee-40ce-9866-44c17688e6d1
+UID:51b960fb-bfa2-47fe-8c09-6422fdd94552
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T171500
 DTEND:20240419T181000
 SUMMARY:Media & Marketing for VGMers
@@ -103,9 +103,9 @@ DESCRIPTION:Media & Marketing for VGMers is a look into how musicians can
   their releases. 
 END:VEVENT
 BEGIN:VEVENT
-UID:a62e8b90-dee3-4263-9393-4b778a3845b9
+UID:ba7a7493-082e-4783-9082-95efc6387b20
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T180000
 DTEND:20240419T185500
 SUMMARY:Charity Album Jam Listening Party
@@ -113,9 +113,9 @@ LOCATION:Panels 1/Conference Room E
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4de646-305a-4659-b0af-bfa955d08743
+UID:5d72ce3d-4d57-4063-a771-435beaa3a94d
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T183000
 DTEND:20240419T192500
 SUMMARY:Hip-Hop\, VGM\, and Why You're Wrong For Not Loving Both
@@ -126,9 +126,9 @@ DESCRIPTION:Do you like VGM? I bet you do! Do you like hip-hop? Less likel
  going to tell you all about the connections between VGM & hip-hop 
 END:VEVENT
 BEGIN:VEVENT
-UID:5cebbab6-bc9f-4f1e-8a47-4aa4ba2f8054
+UID:b72ead7b-7df2-488e-9692-371dc515632c
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T191500
 DTEND:20240419T201000
 SUMMARY: How To Level-Up Your Arrangements
@@ -139,9 +139,9 @@ DESCRIPTION:Is your music too repetitive? Trouble emulating the genres you
  o Game Arranging veterans [NAMES TBA] tackle this topic. 
 END:VEVENT
 BEGIN:VEVENT
-UID:4ea3ae7e-3d27-494c-815c-f1d168c1ddd1
+UID:b66a824e-d074-478e-b3b5-8bdcf6380bc4
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T194500
 DTEND:20240419T204000
 SUMMARY:There Is No Easy Mode: Video Game Trivia
@@ -149,9 +149,9 @@ LOCATION:Panels 2/Conference Room D
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd0abb4-30c9-4f39-883e-303f9d79078e
+UID:3d5bfe35-2903-4e40-a62f-d0af494040e9
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T203000
 DTEND:20240419T212500
 SUMMARY:Minor Key Mario\, Major Key Magus
@@ -162,9 +162,9 @@ DESCRIPTION:What if Mario's music felt depressing rather than cheerful? If
  c video game tunes and 8-bit Music Theory will make it happen\, LIVE! 
 END:VEVENT
 BEGIN:VEVENT
-UID:3785046b-0705-46e9-a39d-0a149b3c9b25
+UID:b1ab0417-a93d-49d1-abf2-ca97f1c5136e
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T210000
 DTEND:20240419T215500
 SUMMARY:Split Screen: Free-for-All
@@ -173,9 +173,9 @@ DESCRIPTION:Join Split Screen as we play games together in a chaotic envir
  onment\, and discover what it truly means to Split a Screen. 
 END:VEVENT
 BEGIN:VEVENT
-UID:9ffaedc6-bd37-4383-b315-ebe40bd12ad3
+UID:cd6d9b70-9240-49f7-b43c-d2fa61308786
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T220000
 DTEND:20240419T234500
 SUMMARY:The Gwobs Panel
@@ -183,9 +183,9 @@ LOCATION:Panels 1/Conference Room E
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:2d00ece8-d0ab-4d94-8693-91bc55de1025
+UID:41faa09e-becd-4590-a0e0-fde07f9daa30
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T221500
 DTEND:20240419T231000
 SUMMARY:Music Of The Sea: An Introduction To Tropical Music
@@ -196,9 +196,9 @@ DESCRIPTION:Music Of The Sea: An Introduction To Tropical Music will cover
  her you're going for Latin\, California\, African\, Or Hawaiian music. 
 END:VEVENT
 BEGIN:VEVENT
-UID:d5832193-19ce-4fa5-9653-b30744ac1bae
+UID:3fe13dd4-d2a9-4347-9092-8975bad4ddfa
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T103000
 DTEND:20240420T112500
 SUMMARY:From Lover (of VGM) to Composer (of VGM)
@@ -209,9 +209,9 @@ DESCRIPTION:Join Karl Brueggemann and Vav as they discuss how they went fr
  pired by retro VGM\, time management\, and more! 
 END:VEVENT
 BEGIN:VEVENT
-UID:d0a9a8bd-5bec-4064-a179-95f7a34821cc
+UID:9195aea9-e123-4aa0-a962-4caf3c3709b1
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T110000
 DTEND:20240420T115500
 SUMMARY:Pixelated Audio Podcast (Live)
@@ -221,9 +221,22 @@ DESCRIPTION:The West Coast podcast comes to VGM CON. Join us as we listen
  al composers\, pinball\, edutainment and so much more! 
 END:VEVENT
 BEGIN:VEVENT
-UID:2a10254c-06fa-4d12-8d11-c9a03340613e
+UID:fc5c8c2f-ad25-499e-b06f-c6f8d39b88ed
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
+DTSTART:20240420T114500
+DTEND:20240420T124000
+SUMMARY:Ludomusicology: Researching Sound and Music in Video Games
+LOCATION:Panels 1/Conference Room E
+DESCRIPTION:This panel offers an introduction to ludomusicology\, the acad
+ emic study of sound and music in video games. In this panel\, we present a
+ n overview of the discipline regarding its development\, its leading schol
+ ars\, and how attendees can explore the ludomusicological landscape. 
+END:VEVENT
+BEGIN:VEVENT
+UID:3329da46-1191-40d1-bdb7-a4b5874e79a0
+SEQUENCE:0
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T121500
 DTEND:20240420T130000
 SUMMARY:VGM Quiplash
@@ -231,9 +244,9 @@ LOCATION:Warp Stage/Board Room 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:0a0c36dd-20de-4452-934e-c2850af6e032
+UID:bfdce886-cb42-447b-8978-6f5482233e2f
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T121500
 DTEND:20240420T131000
 SUMMARY:A Dialogue for Dynamic Video Game Music
@@ -244,9 +257,9 @@ DESCRIPTION:Come take a dive into the wonderful world of dynamic video gam
   FMOD. 
 END:VEVENT
 BEGIN:VEVENT
-UID:c171d08d-20bd-4e57-bbc9-4b63ccd76368
+UID:196cfe91-0c28-4091-a97a-8d223da3d52c
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T130000
 DTEND:20240420T135500
 SUMMARY:How Zelda (& other games) Get Trombone ALL WRONG!
@@ -256,9 +269,9 @@ DESCRIPTION:This is a trombone\, all the time panel! Too often\, we hear t
  else can trombones...actually do? Come to this panel and find out! 
 END:VEVENT
 BEGIN:VEVENT
-UID:4b1f3eae-ee46-421a-960e-a0bf35bb1fa0
+UID:17bf3be2-8504-4dda-8147-3f01e3040d77
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T133000
 DTEND:20240420T142500
 SUMMARY:Diving Into the Mystery: Motoi Sakuraba
@@ -270,9 +283,9 @@ DESCRIPTION:Let's analyze Motoi Sakuraba's early compositional style! We w
   
 END:VEVENT
 BEGIN:VEVENT
-UID:aeea0678-b5f2-4e2a-80ce-aa865dba8983
+UID:1c93ed5e-4ec5-4002-bae8-a2c4a59661a0
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T141500
 DTEND:20240420T151000
 SUMMARY:Year 10: The History of VGM CON
@@ -281,9 +294,9 @@ DESCRIPTION:Join founder and Gamer's Rhapsody executive director\, TheToad
  er\, on how a college student started a vgm convention in Minnesota.  
 END:VEVENT
 BEGIN:VEVENT
-UID:54ca0a25-a908-4412-aaa2-3520e69b294e
+UID:9e6a2c74-c3b1-44db-9a3d-33936b9434a1
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T144500
 DTEND:20240420T154000
 SUMMARY:The Ins and Outs of a VGM Band Leader
@@ -294,9 +307,9 @@ DESCRIPTION:Ever wanted to start your own VGM Project/Band? Ever wondered
  ctly that and more! 
 END:VEVENT
 BEGIN:VEVENT
-UID:4885d5e8-28df-4f64-ad45-951942a61d52
+UID:46d67f8b-a77a-492b-a39e-3d05520f1ce8
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T153000
 DTEND:20240420T162500
 SUMMARY:STRAYLIGHT OST Composition Breakdown
@@ -306,9 +319,9 @@ DESCRIPTION:Join video game composer Rob Kovacs as he takes you through th
  m his original soundtrack from the award-winning VR game\, STRAYLIGHT. 
 END:VEVENT
 BEGIN:VEVENT
-UID:0ad817a2-aae0-44e5-b093-32bafad95c99
+UID:d8283a4a-5043-4e9e-9dcd-1d62cfde76a2
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T160000
 DTEND:20240420T165500
 SUMMARY:Dwelling of Duels
@@ -319,9 +332,9 @@ DESCRIPTION:Grab your pencils! Competitors from Dwelling of Duels have whi
  ing! 
 END:VEVENT
 BEGIN:VEVENT
-UID:9b7a3207-1426-4694-9829-bc7131f6ed8c
+UID:f4f4dfe2-c054-4e65-9bf3-9b31a398f796
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T164500
 DTEND:20240420T174000
 SUMMARY:Composing ROBOGIRL - from Concept to Chiptune
@@ -332,9 +345,9 @@ DESCRIPTION:What exactly does it take to bring new musical ideas to chiptu
  se melodies into the machine. 
 END:VEVENT
 BEGIN:VEVENT
-UID:206d80f0-9041-407c-b7ea-46650e8f11c4
+UID:4c170e06-36a4-4a0c-9f08-797d2418d22c
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T170000
 DTEND:20240420T174500
 SUMMARY:Name That Tune w/ Jer Roque
@@ -342,9 +355,9 @@ LOCATION:Warp Stage/Board Room 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:1b30eece-0cd7-470e-955a-ced99de5ffe4
+UID:a7261e5b-358a-49dd-b69c-fcddf573f021
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T171500
 DTEND:20240420T204500
 SUMMARY:Earthbound USA Full Screening and Q&A
@@ -355,9 +368,9 @@ DESCRIPTION:Experience EarthBound\, USA! This feature-length documentary t
  obbie "Gwobs" Benson and the filmmakers for a Q&A after the screening! 
 END:VEVENT
 BEGIN:VEVENT
-UID:d81ddaf3-b8c4-4e7d-a779-e42c3a024566
+UID:7b5ed900-8a29-49c8-85c8-e96f28a43cae
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T180000
 DTEND:20240420T185500
 SUMMARY:Leitmotifs? In MY Super Mario Sunshine??
@@ -368,9 +381,9 @@ DESCRIPTION:Join 8-bit Music Theory as he uses his distinct style of music
   so darn lovable 
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e0d5a1-a963-4e97-86aa-18f135dfe58c
+UID:ce5d15f2-0515-42f7-bffa-29cd8dfd0d71
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T190000
 DTEND:20240420T195500
 SUMMARY:The 2024 Game Music Remix Awards
@@ -378,9 +391,9 @@ LOCATION:Warp Stage/Board Room 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:d8c03d06-bef7-496c-8467-71d008ea331a
+UID:6ecdfc13-d8f1-4aa7-b356-eb717c7a12dd
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T191500
 DTEND:20240420T201000
 SUMMARY:Idol 101
@@ -390,9 +403,9 @@ DESCRIPTION:Do you want to learn about idols other than just AKB48 or Love
   for! This is IDOL 101 
 END:VEVENT
 BEGIN:VEVENT
-UID:843d1df7-40c4-4d7f-aff6-619df924222f
+UID:e1bdf45f-4113-4b30-bae3-bf8e9e740192
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T203000
 DTEND:20240420T212500
 SUMMARY:Pub Trivia without the Pub!
@@ -402,9 +415,9 @@ DESCRIPTION:PurpleLink's VGM Trivia - Test your knowledge of 10 VGM questi
   
 END:VEVENT
 BEGIN:VEVENT
-UID:7c870c7f-cd82-4e95-8c62-5d51b4a63957
+UID:183ba0e2-d1eb-4557-819d-7a688feceb44
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T213000
 DTEND:20240420T222500
 SUMMARY:Experiences & Opportunities Arranging Game Music
@@ -415,22 +428,35 @@ DESCRIPTION:Eric Ladish is joined by Khrys Williams\, Andy Ru\, and Alliso
   experiences to draw from as they share what opportunities are out there! 
 END:VEVENT
 BEGIN:VEVENT
-UID:8806a645-db85-4341-8b4d-0738ec9cc983
+UID:8638a95b-d03e-4922-8714-332f087f048c
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
-DTSTART:20240420T114500
-DTEND:20240420T124000
-SUMMARY:Ludomusicology: Researching Sound and Music in Video Games
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:This panel offers an introduction to ludomusicology\, the acad
- emic study of sound and music in video games. In this panel\, we present a
- n overview of the discipline regarding its development\, its leading schol
- ars\, and how attendees can explore the ludomusicological landscape. 
+DTSTAMP:20240419T200616Z
+DTSTART:20240420T214500
+DTEND:20240420T224000
+SUMMARY:The Triforce of Starting a VGM Orchestra
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Did you know that you can use the triforce to start a video ga
+ me orchestra? Come learn how\, as Michelle Eng shares her experience of st
+ arting a video game orchestra and helping others do so with her 15+ years 
+ of experience in the VGM orchestra community.  
 END:VEVENT
 BEGIN:VEVENT
-UID:5667494c-7acb-48f8-aaa7-24b48dec87c9
+UID:f9579075-3a20-43b1-a244-2196d91e01da
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
+DTSTART:20240420T214500
+DTEND:20240420T224000
+SUMMARY:The Triforce of Starting a VGM Orchestra
+LOCATION:Panels 2/Conference Room D
+DESCRIPTION:Did you know that you can use the triforce to start a video ga
+ me orchestra? Come learn how\, as Michelle Eng shares her experience of st
+ arting a video game orchestra and helping others do so with her 15+ years 
+ of experience in the VGM orchestra community.  
+END:VEVENT
+BEGIN:VEVENT
+UID:7d25307f-cac2-4dbb-a748-a749f20ec3fe
+SEQUENCE:0
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T103000
 DTEND:20240421T112500
 SUMMARY:Demistifying Big Band Jazz with VGM
@@ -441,9 +467,9 @@ DESCRIPTION:Writing music for a jazz big band can seem overwhelming to man
   Joe Di Fiore\, all of these questions and more will be answered 
 END:VEVENT
 BEGIN:VEVENT
-UID:c0bf6b5e-b610-419b-85e3-5576770f66a7
+UID:35455c6d-46be-4c11-91af-fbd35c6201e8
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T110000
 DTEND:20240421T115500
 SUMMARY:Secrets of ZREO's Fair Winds & Following Seas
@@ -454,9 +480,9 @@ DESCRIPTION:The best kept secrets of ZREO's Fair Winds & Following Seas LE
  urning simple themes into epic orchestrations and arrangements! 
 END:VEVENT
 BEGIN:VEVENT
-UID:51a22e30-5575-4426-8dde-8a86b0696ff2
+UID:05fcb14d-fcf2-4785-b188-164235249c87
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T114500
 DTEND:20240421T124000
 SUMMARY:Smash Bros. Ultimate: The Alto Clef Crew Battle!
@@ -467,9 +493,9 @@ DESCRIPTION:Do you LOVE the viola and alto clef? Do you support its orches
  come enjoy  
 END:VEVENT
 BEGIN:VEVENT
-UID:82cc3450-139a-45cd-a752-2f411b12f441
+UID:0c026568-8c77-4ff5-8e14-23d1cdd7e99e
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T121500
 DTEND:20240421T131000
 SUMMARY:VGM Booking
@@ -479,9 +505,9 @@ DESCRIPTION:Booking a VGM Lineup - If you've ever been curious about the i
   VGM events this is the panel for you. 
 END:VEVENT
 BEGIN:VEVENT
-UID:f524156d-205b-4a2c-8e3c-9c54a0495966
+UID:c275527b-8be6-46c7-88a4-7ee73b279531
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T130000
 DTEND:20240421T135500
 SUMMARY:Create Era Accurate Genesis Tracks
@@ -491,22 +517,9 @@ DESCRIPTION:This panel will highlight the unique history of the sound desi
   you can learn how to add some retro flair to any track. 
 END:VEVENT
 BEGIN:VEVENT
-UID:0d25f154-bc51-4c97-b20c-1d30b47b82f6
+UID:936e75f6-0b8c-40b6-a7c7-58ccbe80e253
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
-DTSTART:20240421T133000
-DTEND:20240421T142500
-SUMMARY:The Triforce of Starting a VGM Orchestra
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Did you know that you can use the triforce to start a video ga
- me orchestra? Come learn how\, as Michelle Eng shares her experience of st
- arting a video game orchestra and helping others do so with her 15+ years 
- of experience in the VGM orchestra community.  
-END:VEVENT
-BEGIN:VEVENT
-UID:56c9a32b-ce37-4897-82a7-5da0d42ab0e3
-SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T141500
 DTEND:20240421T151000
 SUMMARY:Groose (Skyward Sword)\, Mental Health\, & Purpose

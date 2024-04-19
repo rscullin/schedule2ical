@@ -5,9 +5,9 @@ METHOD:REQUEST
 NAME:VGMCon 2024 - Activity
 X-WR-CALNAME:VGMCon 2024 - Activity
 BEGIN:VEVENT
-UID:59ef5d78-ff57-487f-a387-b0504b388321
+UID:4c017a62-1283-4557-9735-dbc91a0f127a
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T150000
 DTEND:20240419T160000
 SUMMARY:Guided Jams
@@ -19,9 +19,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:01754c23-3ed7-4881-9343-3337a3d28384
+UID:6d1e38f7-a3a6-4f5b-bbd6-5aa590fa2279
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T160000
 DTEND:20240419T180000
 SUMMARY:How to Play VGM When a Rapper Enters the Jam
@@ -32,9 +32,9 @@ DESCRIPTION:Jam out to some of your favorite VGM songs with a live rapper!
  he same level as any instrument. Hosted by JOEY Z64. 
 END:VEVENT
 BEGIN:VEVENT
-UID:6f1e3cb8-ebe6-456c-86cf-9ec15a654b33
+UID:822e76ca-7f58-4bb7-8843-e7ab80c7e388
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T180000
 DTEND:20240419T200000
 SUMMARY:Guided Jams
@@ -46,9 +46,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:52de8ca8-40c7-4377-8a8b-90d97e15f0b7
+UID:99489123-b492-40f4-90f5-ba14805ebecc
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T180000
 DTEND:20240419T200000
 SUMMARY:Guided Jams
@@ -60,9 +60,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:d0f372ec-04a9-47e3-9ca5-47c10e8223f6
+UID:280760be-54e8-40d3-87b1-06cf28426564
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T200000
 DTEND:20240419T210000
 SUMMARY:Sight-Reading Power Hour
@@ -73,9 +73,9 @@ DESCRIPTION:Work your sight-reading chops with curated courses of deep cut
  breather and jump back in on the next course! 
 END:VEVENT
 BEGIN:VEVENT
-UID:b6f9d345-3fa4-430e-9809-759acae88634
+UID:514b9db5-cff5-4447-ba76-2cf1577c3e79
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T210000
 DTEND:20240419T230000
 SUMMARY:Jams\, Circles\, Games\, & Cyphers: Different Types of Jams
@@ -87,9 +87,9 @@ DESCRIPTION:Musicians of all skill levels and backgrounds learn and practi
  e backgrounds and skill levels. 
 END:VEVENT
 BEGIN:VEVENT
-UID:288901a9-3c1e-497a-9c35-d914a1c2f15a
+UID:8a748a9e-7307-4b98-b463-ff517d273bf4
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T230000
 DTEND:20240420T010000
 SUMMARY:Guided Jams
@@ -101,9 +101,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:291d9c7c-6191-4641-b9cd-d78418706028
+UID:7a7e6b4d-f355-4189-8a36-ba8ae8dcfcff
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240419T210000
 DTEND:20240419T230000
 SUMMARY:Jams\, Circles\, Games\, & Cyphers: Different Types of Jams
@@ -115,9 +115,9 @@ DESCRIPTION:Musicians of all skill levels and backgrounds learn and practi
  e backgrounds and skill levels. 
 END:VEVENT
 BEGIN:VEVENT
-UID:b4cc9ad4-8746-4739-9f65-d1ae9cc50bbf
+UID:c9c7d9ce-2e03-4f80-8d44-0e32b17216a7
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T100000
 DTEND:20240420T150000
 SUMMARY:Guided Jams
@@ -129,9 +129,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:7f2841de-e0f1-4abe-bbe6-6e5d05b97d41
+UID:44538118-91c4-48e5-bf3b-56ed5bafe9fc
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T100000
 DTEND:20240420T150000
 SUMMARY:Guided Jams
@@ -143,9 +143,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:27dc94db-f99b-4da4-8df4-3bafa889f2ba
+UID:b04b3417-c3a5-4b12-b947-24e359fe6718
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T150000
 DTEND:20240420T160000
 SUMMARY:Smash Bros. Ultimate
@@ -157,9 +157,9 @@ DESCRIPTION:Come to throw down in Smash\, or come to be part of the backin
   instrument! 
 END:VEVENT
 BEGIN:VEVENT
-UID:6a90d804-a68e-4d65-9194-7ae68a68e775
+UID:513f68b8-2914-40bb-8087-2b0e6f155c3e
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T160000
 DTEND:20240420T200000
 SUMMARY:Guided Jams
@@ -171,9 +171,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:97984940-4f79-4055-87f3-11b17ff19368
+UID:54e99ba1-bac2-404e-a369-4de3b94215c8
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T160000
 DTEND:20240420T200000
 SUMMARY:Guided Jams
@@ -185,9 +185,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:4991b630-32a4-4f8f-8656-8ca967fd7600
+UID:822f62b1-9aba-410e-8daa-57eb4c893562
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T200000
 DTEND:20240420T210000
 SUMMARY:Musical Charades
@@ -198,9 +198,9 @@ DESCRIPTION:Which team of 2-5 will get the audience to guess the most of t
  rity unfold.  
 END:VEVENT
 BEGIN:VEVENT
-UID:747a8e65-33e0-494b-b3d3-7df276addebf
+UID:9e210747-617a-495f-9ce4-924836e7128b
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T210000
 DTEND:20240420T230000
 SUMMARY:Wheel of Arrangement
@@ -212,9 +212,9 @@ DESCRIPTION:Learn a lot about jam-mate communication as we throw twists at
  o the Wheel of Arrangement. 
 END:VEVENT
 BEGIN:VEVENT
-UID:ef58666d-1e2d-4128-b4cf-ff559e01a5f7
+UID:09d6a93a-67cf-4a14-a088-7aa4f7c5ce0b
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T010000
 DTEND:20240420T020000
 SUMMARY:Open Jams
@@ -224,9 +224,9 @@ DESCRIPTION:Any sort of jamming goes! You wanna use VGLS? That’s cool. Y
  s at 300 bpm? You do you. Absolutely no Freebird. 
 END:VEVENT
 BEGIN:VEVENT
-UID:1d300cd1-5baf-42cc-8ea1-478d04f1a218
+UID:d499ba46-ecaa-4551-991a-9c1d1beb19de
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T230000
 DTEND:20240421T020000
 SUMMARY:Open Jams
@@ -236,9 +236,9 @@ DESCRIPTION:Any sort of jamming goes! You wanna use VGLS? That’s cool. Y
  s at 300 bpm? You do you. Absolutely no Freebird. 
 END:VEVENT
 BEGIN:VEVENT
-UID:caaef1ac-3184-4178-ae49-2011b3eb9363
+UID:dbb573a0-6be0-45a2-b421-79f162475110
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240420T210000
 DTEND:20240420T230000
 SUMMARY:Wheel of Arrangement
@@ -250,9 +250,9 @@ DESCRIPTION:Learn a lot about jam-mate communication as we throw twists at
  o the Wheel of Arrangement. 
 END:VEVENT
 BEGIN:VEVENT
-UID:0ab5d2e9-10fc-4ac9-bbb1-b78e61eac262
+UID:891f0986-3c7f-40b0-9515-493916b78d1c
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T100000
 DTEND:20240421T150000
 SUMMARY:Guided Jams
@@ -264,9 +264,9 @@ DESCRIPTION:We have a huge library of video game lead sheets -- powered by
  playing -- and we have sheets for your instrument. Even French horn. 
 END:VEVENT
 BEGIN:VEVENT
-UID:07f37fde-524d-4bee-884e-8f5ab33b987b
+UID:cee4cea1-59cc-44ab-af60-8fe79278eb90
 SEQUENCE:0
-DTSTAMP:20240417T003454Z
+DTSTAMP:20240419T200616Z
 DTSTART:20240421T100000
 DTEND:20240421T150000
 SUMMARY:Guided Jams

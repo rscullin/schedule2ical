@@ -128,8 +128,8 @@ got(vgmUrl,{cookieJar}).then(response => {
                 console.log(matches)
 
                 // Create a date/time string and parse it, then do terrible timezone handling
-                const actualStartDate = moment(day + " " + matches[2], 'dddd DD MMM YYYY h:mm a').add(-4, "hours")
-                const actualEndDate = moment(day + " " + matches[3], 'dddd DD MMM YYYY h:mm a').add(-4, "hours")
+                const actualStartDate = moment(day + " " + matches[2], 'dddd DD MMM YYYY h:mm a').add(-5, "hours")
+                const actualEndDate = moment(day + " " + matches[3], 'dddd DD MMM YYYY h:mm a').add(-5, "hours")
 
                 console.log(day + " " + matches[2])
                 console.log(day + " " + matches[3])

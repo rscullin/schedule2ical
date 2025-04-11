@@ -10,6 +10,8 @@ import fs from 'fs'
 import moment from 'moment'
 import ical, {ICalCalendarMethod} from 'ical-generator';
 import crypto from 'crypto'
+import { Cookie, CookieJar } from 'tough-cookie'
+
 
 
 const {JSDOM} = jsdom;
@@ -28,10 +30,17 @@ const calendarDict = {
 };
 
 
+const cookieJar = new CookieJar();
+
+await cookieJar.setCookie('humans_21909=1', 'https://vgmcon.org');
+
 const vgmUrl = 'https://vgmcon.org/schedule/';
 
-got(vgmUrl).then(response => {
-    const dom = new JSDOM(response.body);
+got(vgmUrl,{cookieJar}).then(response => {
+
+    var dom = new JSDOM(response.body);
+
+
 
     var days = dom.window.document.getElementsByClassName("conference_day")
 

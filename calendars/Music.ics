@@ -1,784 +1,363 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//sebbo.net//ical-generator//EN
-METHOD:REQUEST
-NAME:VGMCon 2025 - Music
-X-WR-CALNAME:VGMCon 2025 - Music
+PRODID:-//VGMCon 2025//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
-UID:8a9d854ba278554d0c4565e213bc84ab
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T133000
-DTEND:20250411T142500
-SUMMARY:Opening Ceremonies
-LOCATION:Boss Stage/Regency
-DESCRIPTION:
+UID:d57b691b-901d-4d12-8775-5a00e007f8a7
+SUMMARY:OPENING CEREMONIES
+LOCATION:Boss Stage
+DTSTART:20260417T150000
+DTEND:20260417T155500
 END:VEVENT
 BEGIN:VEVENT
-UID:415060e5d1ab17c81b271324da32b156
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T133000
-DTEND:20250411T142500
-SUMMARY:SA-X Quartet
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:SA-X Quartet plays classical and jazzy covers of some of your 
- (or at least our) favorite video game tunes\, from console classics to bel
- oved indie games. Let us show you what saxes can do! Also math is hard\, s
- o sometimes there’s five of us. 
+UID:7cba4365-4d03-4504-a415-86e77afacca6
+SUMMARY:Lazy Shell
+LOCATION:Boss Stage
+DTSTART:20260417T163000
+DTEND:20260417T172500
 END:VEVENT
 BEGIN:VEVENT
-UID:afd90fb5774f4d90808f62f689f9b423
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T140000
-DTEND:20250411T145500
-SUMMARY:Katie Shesko
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Flute Enchantress Katie Shesko is weaving melodies from video 
- games and anime realms. In her home studio\, she crafts and records captiv
- ating video game soundscapes that enchant gamers and anime enthusiasts ali
- ke. Join her on a symphonic journey through animated worlds. 
+UID:381a6bc1-c53a-4ea8-8d78-10e908f28b0f
+SUMMARY:Do a Barrel Roll!
+LOCATION:Boss Stage
+DTSTART:20260417T180000
+DTEND:20260417T185500
 END:VEVENT
 BEGIN:VEVENT
-UID:ebec29f90100a04d813fdc9d0ef31889
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T140000
-DTEND:20250411T145500
-SUMMARY:Washington Metropolitan Gamer Symphony Orchestra
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
+UID:9b249be6-a363-4e04-875f-959c5366f9df
+SUMMARY:Nico64
+LOCATION:Boss Stage
+DTSTART:20260417T200000
+DTEND:20260417T205500
 END:VEVENT
 BEGIN:VEVENT
-UID:ac99a12b141125a64ad6e658e51049f8
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T150000
-DTEND:20250411T155500
-SUMMARY:Jonathan Aldrich
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:Jonathan Aldrich ("jdaster64") is a pianist\, and longtime fan
-  of Nintendo VGM (especially the Mario and Kirby series)\, jazz piano\, an
- d the VGM cover scene in general. His inspirations include Brubeck\, Vince
-  Guaraldi\, and VGM cover musicians such as the Consouls and the OneUps. 
+UID:1a3eca67-bae3-4222-bad8-48bf5a12e860
+SUMMARY:Geekswag
+LOCATION:Boss Stage
+DTSTART:20260417T213000
+DTEND:20260417T222500
 END:VEVENT
 BEGIN:VEVENT
-UID:42819c944a9e1cf0115ff9703283d211
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T150000
-DTEND:20250411T155500
-SUMMARY:Xander Plute & The Karma Cronies
-LOCATION:Boss Stage/Regency
-DESCRIPTION:From Nintendo’s greatest hits such as Wii Sports and Splatoo
- n to Indies like The Messenger\, Xander Plute & Friends are ready to bring
-  high-energy VGM to the stage! Featuring a crazy array of woodwinds and ot
- her instruments\, there’ll be songs (and sounds) you won’t want to mis
- s! 
+UID:fa63dcd3-d208-4c73-96db-891ee86506b6
+SUMMARY:Nemesis Engine
+LOCATION:Boss Stage
+DTSTART:20260417T230000
+DTEND:20260417T235500
 END:VEVENT
 BEGIN:VEVENT
-UID:52818caac03093747f87379c0ff7b1d8
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T150000
-DTEND:20250411T163000
-SUMMARY:VGM CON Charity Album Listening Party
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
+UID:f0bab5c3-a1a8-4ea0-b4ba-76195c8a3c70
+SUMMARY:Any%
+LOCATION:Hero Stage
+DTSTART:20260417T160000
+DTEND:20260417T165500
 END:VEVENT
 BEGIN:VEVENT
-UID:fa1d396c9e33567b3374ac1b41040d13
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T153000
-DTEND:20250411T162500
-SUMMARY:Ankylo Tail
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Ankylo Tail is a jazz fusion band bringing a new energetic twi
- st to VGM classics! Our mission is to take you on a journey - whether you'
- ve heard the tune a thousand times or you've never heard it before\, Ankyl
- o Tail will give you a unique perspective and show you something new. 
+UID:f7057213-9506-4f44-b5a2-304b54b6621f
+SUMMARY:Elite Four Jazz Band
+LOCATION:Hero Stage
+DTSTART:20260417T173000
+DTEND:20260417T182500
 END:VEVENT
 BEGIN:VEVENT
-UID:cf75abdee3c7acd90c4d57efcbe7b56e
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T163000
-DTEND:20250411T172500
-SUMMARY:DavidPiano and Company
-LOCATION:Boss Stage/Regency
-DESCRIPTION:DavidPiano is a keyboardist\, composer\, and producer. He spec
- ializes in creating chilled-out VGM arrangements in Jazz\, R&B\, and Lo-fi
-  styles. This year he has brought a collective of his friends to join him 
- in his arrangements and bring everyone to space with the music. 
+UID:ef16a7cf-ff25-4fd3-99a7-73e1cb3ebc20
+SUMMARY:Follow Me, Fox!
+LOCATION:Hero Stage
+DTSTART:20260417T193000
+DTEND:20260417T202500
 END:VEVENT
 BEGIN:VEVENT
-UID:7ddf961bfa9275c2054f28adccc8ab56
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T163000
-DTEND:20250411T172500
-SUMMARY:Freeform
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:Jamin and Zeynep are Freeform\, classically-trained musicians 
- who deeply enjoy playing video game music. They play freeform: From pre-wr
- itten arrangements to more jam-session-style semi-improvised pieces\, stre
- tching across a wide variety of genres and styles. 
-END:VEVENT
-BEGIN:VEVENT
-UID:35276161432353575832fa704aaf5ccc
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T170000
-DTEND:20250411T175500
-SUMMARY:MarimbaMatt
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Have you ever wondered what some of your favorite VGM pieces w
- ould sound like on the marimba? You probably haven't even thought about th
- e marimba have you? That's okay! MarimbaMatt will show you marimba VGM in 
- an Electro/Rock style! You might even hear some other cool percussion! 
-END:VEVENT
-BEGIN:VEVENT
-UID:aa1d05b22ac992814bed1c47f4eb51ad
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T180000
-DTEND:20250411T185500
-SUMMARY:The Game Brass
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:The Game Brass is a group of six musicians (and friends) from 
- game scoring\, film\, YouTube\, and session work who share a love of game 
- music\, a strong sense of humor\, and serious chops. With one foot in clas
- sical music and one in VGM\, they're here to share the best of both worlds
- . 
-END:VEVENT
-BEGIN:VEVENT
-UID:ce451a2edd854d93e035bd9ab6ed9862
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T180000
-DTEND:20250411T190000
-SUMMARY:Ian Martyn
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:e929fdf87481e9e3c20fa4cf0df8bc0e
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T183000
-DTEND:20250411T192500
-SUMMARY:Ian Cowell & The Band of Exceptional Goblins
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Ian Cowell & The Band of Exceptional Goblins has only gotten b
- igger and better since first attending VGM Con in 2023\, and now they’re
-  back supporting a new full-length album\, MagicIan! Join them on a musica
- l journey across generations. 
-END:VEVENT
-BEGIN:VEVENT
-UID:86f68e7d8b8d7f6c5152b4f2ecb186ac
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T190000
-DTEND:20250411T195500
-SUMMARY:JoeyZ64
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:JOEY Z64 is going to take you to the dark side of the Dimensio
- nal Rift. Introspection about nostalgia\, grief and cutting observations f
- rom a weirdo who never stopped playing video games too much. 
-END:VEVENT
-BEGIN:VEVENT
-UID:abf196ce0df241e4a613082ebbe77863
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T190000
-DTEND:20250411T195500
-SUMMARY:Lord Xzae
-LOCATION:Hero Stage/Europa
-DESCRIPTION:It's your favorite sad boi\, Lord Xzae! Xzae is known for his 
- touching and upbeat performances that drive the point home of "if the lyri
- cs relate\, seek therapy". 
-END:VEVENT
-BEGIN:VEVENT
-UID:6970f9d812d69b5a04e4fb67e72d7824
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T191500
-DTEND:20250411T201500
-SUMMARY:LAMEBOT
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:1106f7bbbf8c0047d576e63136e25c1c
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T200000
-DTEND:20250411T205500
-SUMMARY:Steel Samurai
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Since 2013\, Steel Samurai has been melting faces with it's ma
- shup-driven powerhouse synth-metal\, best described as an atomic collision
-  between iconic film and TV soundtracks\, classic rock riffage\, and the d
- eepest-cut video game music. 
-END:VEVENT
-BEGIN:VEVENT
-UID:fe0a7e0883b8de58adb5ed00009376a6
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T201500
-DTEND:20250411T211000
-SUMMARY:Rusty
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:da7dc75ecec7a9de08a3df7d17109112
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T203000
-DTEND:20250411T212500
-SUMMARY:DK Adventures
-LOCATION:Hero Stage/Europa
-DESCRIPTION:DK Adventures is a rapid-fire video game music band powered by
-  your requests! We aim to make every moment of our performances fun\, memo
- rable\, and unique by bringing the cozy\, raucous\, and audience-interacti
- ve vibe of classic convention hallway jams to the stage. 
-END:VEVENT
-BEGIN:VEVENT
-UID:6090b797b4fda132918f5c65ade68d98
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T213000
-DTEND:20250411T222500
-SUMMARY:The Last Seahorse
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:The Last Seahorse is a DJ of Anime Technology specializing in 
- VGM\, Anime\, and Japanese EDM. Seahorse is known for their chaotic genre 
- blends going from Metal to trance\, trance to Shredwave\, moving into Euro
- beat\, and then finishing with Ska. 
-END:VEVENT
-BEGIN:VEVENT
-UID:91412421a30e87ce15a4f10ea39f6682
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T213000
-DTEND:20250411T222500
-SUMMARY:WASD
-LOCATION:Boss Stage/Regency
-DESCRIPTION:WASD does hard-rock renditions of music from the most glorious
-  system... The personal computer. Prepare your sockets\, ports\, and conne
- ctors for an intense audio-visual concert experience that takes you throug
- h gaming history from the 90s to today! 
-END:VEVENT
-BEGIN:VEVENT
-UID:27cab44faf63b9b0ca56dd8af9c23c17
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T220000
-DTEND:20250411T225500
-SUMMARY:The Tonberries
-LOCATION:Hero Stage/Europa
-DESCRIPTION:The Tonberries is a four-piece VGM "boograss" band from Southe
- rn California\, and they only play the spooky stuff. So come enjoy their e
- clectic takes on classic themes from Ghosts ‘n Goblins\, Zombies Ate My 
- Neighbors\, Super Mario RPG\, Banjo-Kazooie\, Luigi's Mansion\, and more! 
-END:VEVENT
-BEGIN:VEVENT
-UID:339526efb0ddd5d5524e62347671ae64
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T224500
-DTEND:20250411T234000
-SUMMARY:H808
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:141a5b46e2087dc7a80a43710c2dacfb
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T230000
-DTEND:20250411T235500
-SUMMARY:Composite
-LOCATION:Boss Stage/Regency
-DESCRIPTION:A progressive rock trio formed in 5 minutes\, Composite's infl
- uences range from ELP\, Sakuraba\, and beyond. Featuring Roland Laracuente
-  on bass\, Justin Thornburgh on keyboards\, and Andrew Gossett on drums\, 
- their clear vision is to bring you highly organized and relentless chaos. 
-END:VEVENT
-BEGIN:VEVENT
-UID:90468c32f9ebf1951aab2ecd512e9d2a
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T233000
-DTEND:20250412T002500
-SUMMARY:Audio Mocha
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Video game music with a tropical twist! Come party with Audio 
- Mocha as he takes you on across covers of your favorite tracks turned into
-  beach bash anthems. Whether you're into surf rock\, ska or Latin music\, 
- don't miss out on this pixelated pool party! 
-END:VEVENT
-BEGIN:VEVENT
-UID:3634ee0e86e9b3917ff8abc2db7d88c5
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T235900
-DTEND:20250412T005500
-SUMMARY:Ben Briggs
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:d3decece50f830f5652b87805b5a226a
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T120000
-DTEND:20250412T125500
-SUMMARY:Hans Fuerst
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:Hans Fuerst will be performing solo piano merging the rich his
- tory of both jazz and VGM into cohesive yet improvised songs! Part of the 
- fun of seeing Hans perform is seeing where the familiar melodies go as the
-  arrangement changes on the fly depending on the moment. 
-END:VEVENT
-BEGIN:VEVENT
-UID:6ae3caf997d947e704e64b050e35d97d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T120000
-DTEND:20250412T125500
-SUMMARY:VGM CON Recital
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Do you play music on casual mode? Signup to showcase a short v
- ideo/song/performance at VGM CON. This all-ages event at VGM CON is meant 
- to provide a space to highlight performers who haven’t “gone pro”. C
- ostumes are encouraged but not required! 
-END:VEVENT
-BEGIN:VEVENT
-UID:484bb9544a1eb4835167bc6c368a6942
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T123000
-DTEND:20250412T132500
-SUMMARY:Windy Harper
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Windy Harper is a harpist from Chicago\, IL and is known for h
- er virtuosic arrangements of music from Hollow Knight\, Spiritfarer\, and 
- other indie favorites. 
-END:VEVENT
-BEGIN:VEVENT
-UID:8728b94dd381e3783eeb061f2d669060
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T130000
-DTEND:20250412T143000
-SUMMARY:Ultra Combo Album Listening Party
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:2e71f777f7a1b3790deb4d4fd66f9079
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T133000
-DTEND:20250412T142500
-SUMMARY:Sirens & Liars
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:Sirens & Liars is a female vocal duo that covers video game mu
- sic in a fantasy/bardcore style. Known for their haunting harmonies\, Ashl
- ey (mezzo soprano) and Alyx (soprano) blend their voices seamlessly to cre
- ate a mesmerizing performance experience. 
-END:VEVENT
-BEGIN:VEVENT
-UID:0067264552b949b6428c26cff8418406
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T133000
-DTEND:20250412T142500
-SUMMARY:Super Smash Opera: Aria Kart
-LOCATION:Boss Stage/Regency
-DESCRIPTION:The Mushroom Kingdom is holding a grand prix. Can Team Mario b
- eat Bowser and stop his evil plans? What other threats await our heroes? T
- he team will race around the track to the tune of some of classical music
- ’s most memorable melodies in “Super Smash Opera Presents: Aria Kart!
- ” 
-END:VEVENT
-BEGIN:VEVENT
-UID:27082385f72485727b6ff23aadef2a99
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T140000
-DTEND:20250412T145500
-SUMMARY:LaurentheFlute
-LOCATION:Hero Stage/Europa
-DESCRIPTION:LaurentheFlute performs arrangements of her favorite video gam
- e tunes\, whether she's singing her heart out or layering an ethereal flut
- e choir\, often with help from her friends. Expect JRPG music\, feel-good 
- singalong joyfulness\, and maybe a dramatic electric guitar or two! 
-END:VEVENT
-BEGIN:VEVENT
-UID:0e62220e68b360b0ead2140d6b8fca61
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T150000
-DTEND:20250412T155500
-SUMMARY:iLikePiano
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:iLikePiano (real name\, Ryan McGaughey) brings virtuosic class
- ical style piano playing to the world of video game music. Here at VGM CON
- \, Ryan requests that YOU choose the musical adventure we experience. Come
-  and take part in the adventure we construct together! 
-END:VEVENT
-BEGIN:VEVENT
-UID:2da083d71fff65e7fa103f21105e34c0
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T150000
-DTEND:20250412T155500
-SUMMARY:Super Hi-Tops
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Super Hi-Tops are a VGM group from Austin\, TX that specialize
- s in funky tunes from video games past\, present\, and future. Our precisi
- on act includes hot\, danceable favorites such as every single song from T
- oejam & Earl\, and indie favorites such as Hylics 2!   
-END:VEVENT
-BEGIN:VEVENT
-UID:61d4dca0169b8454dde95e5c0e69a419
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T150000
-DTEND:20250412T160000
-SUMMARY:Celestial Fury
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:d431cf98cd0a9d03b8cfea05348c4460
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T153000
-DTEND:20250412T162500
-SUMMARY:Windfall
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Windfall is an acoustic fusion band playing expressive and imp
- rovisatory arrangements of classic and deep cut video game tunes. 
-END:VEVENT
-BEGIN:VEVENT
-UID:2af38e6e186f5f2eb16213b37695e980
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T163000
-DTEND:20250412T172500
-SUMMARY:dogsplusplus
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:dogsplusplus is a unique jazz piano and game boy duo playing c
- lassic VGM like funky jazz standards with some original chiptune thrown in
- . 
-END:VEVENT
-BEGIN:VEVENT
-UID:826d8145d7d821f970d33854a82136cb
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T163000
-DTEND:20250412T172500
-SUMMARY:8-bit & The Single Players
-LOCATION:Boss Stage/Regency
-DESCRIPTION:8-bit & The Single Players takes your favourite video game mus
- ic and supercharges it with high energy grooves\, blazing solos\, and mome
- nts that will set your face to the 'stank' position. Headed by the man beh
- ind ‘8-bit Music Theory’\, his live show puts theory into practice! 
-END:VEVENT
-BEGIN:VEVENT
-UID:054bd9d2515f27b7dd119dc069ae7899
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T170000
-DTEND:20250412T175500
-SUMMARY:The Adventure Guild
-LOCATION:Hero Stage/Europa
-DESCRIPTION:The Adventure Guild is a Chicago-based rock band founded by Sy
- bil Grace. The Band is currently performing select works from Stardew Vall
- ey based on Sybil's prior work as a solo VGM artist. 
-END:VEVENT
-BEGIN:VEVENT
-UID:b197a2ee0d7bf7c4810005fa1fc49734
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T170000
-DTEND:20250412T173000
-SUMMARY:GR3YSON
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:883cab5ba812c8950ed92399afdd3427
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T180000
-DTEND:20250412T185500
-SUMMARY:VGM For Everyone's Souls
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:VGM for Everyone's Souls: Come sing along to VGM with us!   
-END:VEVENT
-BEGIN:VEVENT
-UID:1b61c93b0966d673cb83e9ebc0ce2c84
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T183000
-DTEND:20250412T192500
-SUMMARY:The OneUps
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Since the first The OneUps show in 2002\, we have been traveli
- ng the galaxy playing video game music for hungry fans. Our Mission: To ex
- plore the video game music of our youth\, to seek out new video game music
-  & new genre possibilities - To boldly go where no band has gone before! 
-END:VEVENT
-BEGIN:VEVENT
-UID:1961275e924df0a786b13ad7cca1884d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T190000
-DTEND:20250412T195500
-SUMMARY:Color in Reverse
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:Producer/DJ blending Goth/Industrial\, Metal\, Pop\, and hard 
- EDM into a Cyberpunk experience. I blur the lines between humanity and tec
- hnology\, inviting you on a journey through neon-lit shadows of the future
- \, where every track tells a story and every beat ignites the soul. 
-END:VEVENT
-BEGIN:VEVENT
-UID:fa546a9feff136a17e58edeb1725d3c9
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T190000
-DTEND:20250412T195500
-SUMMARY:Glitch Kibbitz
-LOCATION:Hero Stage/Europa
-DESCRIPTION:From horas to čočeks\, Glitch Kibbitz brings dance-able inte
- rpretations of VGM classics inspired by klezmer and balkan musical traditi
- ons\, with just a hint of jazzy flair! 
-END:VEVENT
-BEGIN:VEVENT
-UID:be7ca95010a61094eaa211391abaac5a
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T193000
-DTEND:20250412T220000
-SUMMARY:The Game Music Remix Awards
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:1c9d82fb41cff6ad8faef0ad6c0b8f05
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T200000
-DTEND:20250412T205500
-SUMMARY:Down Loadable Collective
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Down Loadable Collective (DLC) is a band that combines the unp
- redictability and in the moment composition of jazz with the language and 
- musical love of VGM and J-pop music! 
-END:VEVENT
-BEGIN:VEVENT
-UID:0b5452f5fd79a62825a9b6ca46e04bf2
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T201500
-DTEND:20250412T211000
-SUMMARY:NiteVolt
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:NiteVolt is a VGM DJ and Vtuber ready to plug directly into yo
- ur mind! Featuring some of your favorite high energy tracks and deeper cut
- s\, this prototype experiment straight from the labs of Vale Corporation i
- s ready to light your night up! 
-END:VEVENT
-BEGIN:VEVENT
-UID:8fa008b3903daeb1375b1148e6d14cf7
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T203000
-DTEND:20250412T212500
-SUMMARY:Danimal Cannon
-LOCATION:Hero Stage/Europa
-DESCRIPTION:Danimal Cannon is a composer and sound designer for videogames
- .  He is well known for his elaborate chiptune compositions\, enthralling 
- electronic beats\, and supersonic guitar shredding. 
-END:VEVENT
-BEGIN:VEVENT
-UID:ff3cbf23842a6709b2a7d51aa0606848
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T213000
-DTEND:20250412T222500
-SUMMARY:Kirby's Dream Band
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Fun\, danciness\, costumes\, nostalgia\, positivity\, humor\, 
- and note-for-note accuracy collide onstage to bring you...Kirby's Dream Ba
- nd! Covering everything from '80s arcade games to modern indie gems\, this
-  pink-clad party and their many hats are ready to Kirbify your lives. 
-END:VEVENT
-BEGIN:VEVENT
-UID:0da5dd7dfe0c21859fba3f35da34feb8
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T213000
-DTEND:20250412T222500
-SUMMARY:Randy Derricott
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:VGM x EDM! Randy Derricott is a DJ/Producer from Fort Lauderda
- le\, Florida that makes & plays EDM remixes of songs from various video ga
- mes! 
-END:VEVENT
-BEGIN:VEVENT
-UID:2089177151deddc221b89032a48db61d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T214500
-DTEND:20250412T224000
-SUMMARY:OrchKeystra
-LOCATION:Hero Stage/Europa
-DESCRIPTION:OrchKeystra is a one-man electronic band using elements of DJ-
- ing and live-instrument performance. With a love for nerd and pop culture\
- , OrchKeystra covers wide musical ground ranging from top 40 and soulful c
- lassics to nostalgic anime and upbeat video game remixes.  
-END:VEVENT
-BEGIN:VEVENT
-UID:29bf398327395b19d79d0a36d2bbd430
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T224500
-DTEND:20250412T234000
-SUMMARY:Theology
-LOCATION:Underground Stage/Plymouth
-DESCRIPTION:Club-Ready Video Game Remixes | Mental Health | God Mode 
-END:VEVENT
-BEGIN:VEVENT
-UID:fc85769a9f73bf0aef3c1a397063f635
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T230000
-DTEND:20250412T235500
+UID:ae402f88-23c4-4ae1-89fc-63379ef4a24d
 SUMMARY:Super Marcato Bros.
-LOCATION:Hero Stage/Europa
-DESCRIPTION:The Super Marcato Bros. are an energetic and groovy 4-piece VG
- M band from Minneapolis that combine authentic system sounds with a live b
- and energy to create something totally unique and above all\, fun! 
+LOCATION:Hero Stage
+DTSTART:20260417T210000
+DTEND:20260417T215500
 END:VEVENT
 BEGIN:VEVENT
-UID:33ad628f2e4c09e178a53a6411fe9b1d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T230000
-DTEND:20250412T235500
-SUMMARY:The Returners
-LOCATION:Boss Stage/Regency
-DESCRIPTION:The Returners are an Austin-based rock/metal VGM band known fo
- r accurate covers of technically demanding\, musically diverse material fr
- om their favorite well-known and obscure games. Flute\, guitar\, keys\, ba
- ss\, drums\, vox. They play what they love and hope you'll love it too. 
+UID:5de1649e-09fa-4d1c-9a34-e09cca7a6838
+SUMMARY:Biggoron and The Goronsemble
+LOCATION:Hero Stage
+DTSTART:20260417T223000
+DTEND:20260417T232500
 END:VEVENT
 BEGIN:VEVENT
-UID:9bd5de38e6928e69096f21ceb99acdff
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T100000
-DTEND:20250413T110000
-SUMMARY:Endgegner
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
+UID:42fefed5-a070-4ffb-8989-8468420ca84b
+SUMMARY:Stuffed Animals
+LOCATION:Key Stage
+DTSTART:20260417T170000
+DTEND:20260417T175500
 END:VEVENT
 BEGIN:VEVENT
-UID:f10b59147e73fd8747372135594d75af
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T230000
-DTEND:20250413T235500
+UID:65550da3-2841-41b8-97af-5d801db7cad6
+SUMMARY:Voices Between Worlds
+LOCATION:Key Stage
+DTSTART:20260417T183000
+DTEND:20260417T192500
+END:VEVENT
+BEGIN:VEVENT
+UID:d71fa5d2-c561-4d9d-b984-1cb0f290f0d1
+SUMMARY:The Endless Now
+LOCATION:Key Stage
+DTSTART:20260417T200000
+DTEND:20260417T205500
+END:VEVENT
+BEGIN:VEVENT
+UID:59c926ff-4728-4721-a54c-58bd30f97096
+SUMMARY:Open Jam Space
+LOCATION:Key Stage
+DTSTART:20260417T210000
+DTEND:20260418T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:e8633db9-d399-4b74-a0ce-268f989f5dd7
+SUMMARY:JOEY Z64
+LOCATION:UNDG Stage
+DTSTART:20260417T200000
+DTEND:20260417T205500
+END:VEVENT
+BEGIN:VEVENT
+UID:63a5a232-19e5-448d-a0cf-511c769b80b7
+SUMMARY:BIGFAKE
+LOCATION:UNDG Stage
+DTSTART:20260417T210000
+DTEND:20260417T215500
+END:VEVENT
+BEGIN:VEVENT
+UID:43630de6-64cc-422a-a79b-3185ec83fc50
+SUMMARY:NiteVolt
+LOCATION:UNDG Stage
+DTSTART:20260417T220000
+DTEND:20260417T225500
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae3e6e2-304e-4438-9346-f05b3e0fda1e
+SUMMARY:H808 Mafia
+LOCATION:UNDG Stage
+DTSTART:20260417T230000
+DTEND:20260417T235500
+END:VEVENT
+BEGIN:VEVENT
+UID:a298799d-79d4-44c5-a6ff-faa65be64690
+SUMMARY:Recital
+LOCATION:Boss Stage
+DTSTART:20260418T120000
+DTEND:20260418T125500
+END:VEVENT
+BEGIN:VEVENT
+UID:14e3e6ca-f632-40fc-975c-2268cb2fed57
+SUMMARY:UltraGlide
+LOCATION:Boss Stage
+DTSTART:20260418T133000
+DTEND:20260418T142500
+END:VEVENT
+BEGIN:VEVENT
+UID:e09dd5bd-04f1-45d0-8d0e-2a628ed83226
+SUMMARY:Los Veros
+LOCATION:Boss Stage
+DTSTART:20260418T150000
+DTEND:20260418T155500
+END:VEVENT
+BEGIN:VEVENT
+UID:96577b06-adb8-4df8-a2cf-16980f5a1f95
+SUMMARY:DiscoCactus
+LOCATION:Boss Stage
+DTSTART:20260418T163000
+DTEND:20260418T172500
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4ca164-bcc4-433b-bf87-35451a778642
+SUMMARY:Lacey Johnson
+LOCATION:Boss Stage
+DTSTART:20260418T183000
+DTEND:20260418T192500
+END:VEVENT
+BEGIN:VEVENT
+UID:c5236e77-1b83-4728-9812-cb2d2336984d
+SUMMARY:Dom Palombi's Game Night!
+LOCATION:Boss Stage
+DTSTART:20260418T200000
+DTEND:20260418T205500
+END:VEVENT
+BEGIN:VEVENT
+UID:061f1935-77e4-4af1-ab0a-f7733557da1c
+SUMMARY:dannyBstyle
+LOCATION:Boss Stage
+DTSTART:20260418T213000
+DTEND:20260418T222500
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7cbffb-109f-40aa-8468-e6c8040cbe7b
+SUMMARY:Jeffrey Montoya and The High Rank Disciples
+LOCATION:Boss Stage
+DTSTART:20260418T230000
+DTEND:20260418T235500
+END:VEVENT
+BEGIN:VEVENT
+UID:c93e473b-ff47-44d7-b91c-71439c14643e
+SUMMARY:VGM Rave: Theology presents "Theology of Mana Phase Three"
+LOCATION:Boss Stage
+DTSTART:20260419T003000
+DTEND:20260419T015500
+END:VEVENT
+BEGIN:VEVENT
+UID:011f03d2-b45e-417b-994b-8db7847ad38f
+SUMMARY:Stitched Together Cosplay Showcase
+LOCATION:Hero Stage
+DTSTART:20260418T140000
+DTEND:20260418T145500
+END:VEVENT
+BEGIN:VEVENT
+UID:895b9c41-6826-4c89-b8f5-d76f09b6a8fa
+SUMMARY:Jamie Demeny's 4-Player Game
+LOCATION:Hero Stage
+DTSTART:20260418T153000
+DTEND:20260418T162500
+END:VEVENT
+BEGIN:VEVENT
+UID:898c6ec4-f985-41c0-96d7-01044d26fdab
+SUMMARY:Windfall
+LOCATION:Hero Stage
+DTSTART:20260418T170000
+DTEND:20260418T175500
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f11b88-7591-4ca2-881c-15276c78a3ba
+SUMMARY:LaurentheFlute x Abandon Quest
+LOCATION:Hero Stage
+DTSTART:20260418T190000
+DTEND:20260418T195500
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8f8fe1-807f-4b3f-bb94-20f6343412f7
+SUMMARY:Ohm-I and Friends
+LOCATION:Hero Stage
+DTSTART:20260418T203000
+DTEND:20260418T212500
+END:VEVENT
+BEGIN:VEVENT
+UID:5057ecf9-7acd-4ef2-8608-299766bd00bf
+SUMMARY:Cyril the Wolf
+LOCATION:Hero Stage
+DTSTART:20260418T220000
+DTEND:20260418T225500
+END:VEVENT
+BEGIN:VEVENT
+UID:18ddfa4f-1145-4525-9d9a-a44f7e8e477c
+SUMMARY:Close to Good
+LOCATION:Hero Stage
+DTSTART:20260418T233000
+DTEND:20260419T002500
+END:VEVENT
+BEGIN:VEVENT
+UID:7308c2e2-86d1-4a3a-a7c0-ffec475cc60a
+SUMMARY:The Bards Quartet
+LOCATION:Key Stage
+DTSTART:20260418T130000
+DTEND:20260418T135500
+END:VEVENT
+BEGIN:VEVENT
+UID:9563a2bd-9605-467d-b894-a8ddeaeef1d5
+SUMMARY:Otter Chaos!
+LOCATION:Key Stage
+DTSTART:20260418T143000
+DTEND:20260418T152500
+END:VEVENT
+BEGIN:VEVENT
+UID:79d4e1c4-90fa-4df2-bca1-54d0cb4d7ae9
+SUMMARY:InstrumentManiac
+LOCATION:Key Stage
+DTSTART:20260418T160000
+DTEND:20260418T165500
+END:VEVENT
+BEGIN:VEVENT
+UID:41e794f6-9fa7-4962-b6b0-09d5d97de049
+SUMMARY:OrcaMind
+LOCATION:Key Stage
+DTSTART:20260418T173000
+DTEND:20260418T182500
+END:VEVENT
+BEGIN:VEVENT
+UID:034153d5-34c9-47a0-905c-990cb6d4cb5a
+SUMMARY:VGM Singalong (VGM For Everyone's Souls)
+LOCATION:Key Stage
+DTSTART:20260418T190000
+DTEND:20260418T195500
+END:VEVENT
+BEGIN:VEVENT
+UID:ee112e9c-7c95-42e3-b89b-ac9a84543303
+SUMMARY:Open Jam Space
+LOCATION:Key Stage
+DTSTART:20260418T200000
+DTEND:20260419T000000
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6d3fb3-990f-4b81-8ebb-ee7ca6d6d944
+SUMMARY:Contra Dance
+LOCATION:UNDG Stage
+DTSTART:20260418T150000
+DTEND:20260418T163000
+END:VEVENT
+BEGIN:VEVENT
+UID:29270fa7-518e-440a-b069-24c03365aa92
+SUMMARY:Ronin Op F
+LOCATION:UNDG Stage
+DTSTART:20260418T200000
+DTEND:20260418T205500
+END:VEVENT
+BEGIN:VEVENT
+UID:b5218a4e-f015-4f9e-9f64-315f01a6493d
+SUMMARY:Nostalgia
+LOCATION:UNDG Stage
+DTSTART:20260418T210000
+DTEND:20260418T215500
+END:VEVENT
+BEGIN:VEVENT
+UID:662c0e9c-a29d-4b4a-becd-63fd7cc93e3b
+SUMMARY:Plynk x Prime
+LOCATION:UNDG Stage
+DTSTART:20260418T220000
+DTEND:20260418T225500
+END:VEVENT
+BEGIN:VEVENT
+UID:adfe5bbf-d827-4ae6-8e63-bc9faddddc84
+SUMMARY:Randy Derricott
+LOCATION:UNDG Stage
+DTSTART:20260418T230000
+DTEND:20260418T235500
+END:VEVENT
+BEGIN:VEVENT
+UID:7427cd85-e96a-4d95-ace7-eac28617a707
 SUMMARY:Orchestra Clinic Performance
-LOCATION:Boss Stage/Regency
-DESCRIPTION:
+LOCATION:Boss Stage
+DTSTART:20260419T110000
+DTEND:20260419T115500
 END:VEVENT
 BEGIN:VEVENT
-UID:7e1e1db86e3baa31d4e1b232b1134b53
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T110000
-DTEND:20250413T115500
-SUMMARY:BGSO Flute Choir
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:The BGSO Flute Choir\, an offshoot of the Baltimore Gamer Symp
- hony Orchestra\, is proud to present a selection of VGM tunes performed ex
- clusively on different types of flute. 
+UID:dfbdb4c9-8670-413e-909d-4422b6faf16f
+SUMMARY:TCGSO
+LOCATION:Boss Stage
+DTSTART:20260419T123000
+DTEND:20260419T132500
 END:VEVENT
 BEGIN:VEVENT
-UID:18f6cf4eff1cc085a00131b85cec1558
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T120000
-DTEND:20250413T125500
-SUMMARY:OnlyLogan
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
+UID:82a49392-b1ab-4100-9fa0-25da9ce41c7a
+SUMMARY:The Game Music Remix Awards
+LOCATION:Boss Stage
+DTSTART:20260419T140000
+DTEND:20260419T145500
 END:VEVENT
 BEGIN:VEVENT
-UID:d23ba561dd0c8cb9ef64e7e21443ef2c
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T123000
-DTEND:20250413T132500
-SUMMARY:Des Moines GSO
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Des Moines GSO Gamer Jazz! Venturing forth from Des Moines\, o
- ur Gamer Symphony Orchestra morphs into a jazz ensemble to bring some of t
- he hottest tunes from legendary video games to the stage of VGM Con. 
+UID:7306612f-8cc2-4216-bd7d-af11e268ec55
+SUMMARY:CLOSING CEREMONIES
+LOCATION:Boss Stage
+DTSTART:20260419T150000
+DTEND:20260419T152500
 END:VEVENT
 BEGIN:VEVENT
-UID:fcf97279b2384d9f8cf867a428dde563
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T123000
-DTEND:20250413T132500
-SUMMARY:TheToader
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:TheToader plays classical guitar\, accordion\, and mandola. Li
- sten to acoustic arrangements from The Legend of Zelda\, Xenoblade Chronic
- les\, ICO and more. 
-END:VEVENT
-BEGIN:VEVENT
-UID:96f6f570abfb0cb334841bb2e5733a68
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T140000
-DTEND:20250413T145500
-SUMMARY:Vic Viper
-LOCATION:Boss Stage/Regency
-DESCRIPTION:Vic Viper (the ship from Gradius) - Gutiar\, Keyboard\, Bass a
- nd Drums playing note-for-note covers of Nintendo music 
-END:VEVENT
-BEGIN:VEVENT
-UID:0b348b4609a9f0e4153e1e64e43f4ea6
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T140000
-DTEND:20250413T145500
-SUMMARY:Azure Wind Quintet
-LOCATION:Key Stage/Viking Lounge
-DESCRIPTION:Missing the comforts of home from hyperspace? The Azure Wind Q
- uintet chamber ensemble returns after a two-year hiatus\, breaching the Di
- mensional Riff to bring the color of a classical ensemble to modern video 
- game music! Sit back and let the wind quintet whimsy wash over you. 
-END:VEVENT
-BEGIN:VEVENT
-UID:1a0c6c169fe4d56a49eaff06b4562439
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T153000
-DTEND:20250413T162500
-SUMMARY:Closing Ceremonies
-LOCATION:Boss Stage/Regency
-DESCRIPTION:
+UID:946d45cc-43a4-43ab-b155-d9a7ce8513a0
+SUMMARY:Sunday Jam
+LOCATION:Key Stage
+DTSTART:20260419T110000
+DTEND:20260419T145500
 END:VEVENT
 END:VCALENDAR

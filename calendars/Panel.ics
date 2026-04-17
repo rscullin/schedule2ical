@@ -1,466 +1,223 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//sebbo.net//ical-generator//EN
-METHOD:REQUEST
-NAME:VGMCon 2025 - Panel
-X-WR-CALNAME:VGMCon 2025 - Panel
+PRODID:-//VGMCon 2025//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
-UID:5ef6f888b11446697d49fd5ebb84647b
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T133000
-DTEND:20250411T142500
-SUMMARY:VGM CON Panels Overview
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Want to know what's going on in Panel Rooms 1 and 2 over the w
- eekend? This panel is about just that. Dr. James HD\, the panel's coordina
- tor\, will provide an overview of the many awesome panels happening at thi
- s year's VGM CON 🤓 
+UID:06c2cd41-583b-4d95-98f0-a9f983e6536c
+SUMMARY:Panels Overview
+LOCATION:Panels 1
+DTSTART:20260417T160000
+DTEND:20260417T165500
 END:VEVENT
 BEGIN:VEVENT
-UID:daaf898c464467497b0290cb005d40f6
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T140000
-DTEND:20250411T145500
-SUMMARY:Composing with Global Music Traditions for Video Games
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Video games allow players to explore virtual worlds\, sometime
- s fantastical and other times reminiscent of our own\, real world. The vis
- uals and audio of these virtual worlds establish a sense of place and time
- \, based on the players’ conceptions of cultural and historical signifie
- rs. Intended for composers and music nerds\, this panel led by composer Jo
- hn MacDonald will explore difficulties encountered when composing video ga
- me music that draws from real-world musical traditions\, including preserv
- ation (or lack thereof) of musical traditions\, problematic musical misrep
- resentation\, research methods of non-Western music for Western-trained mu
- sicians\, and defying or reinforcing culture-specific tropes. 
+UID:46b1b00b-8dac-4781-b365-1c152cb117f4
+SUMMARY:Ro Panuganti
+LOCATION:Panels 1
+DTSTART:20260417T171500
+DTEND:20260417T181000
 END:VEVENT
 BEGIN:VEVENT
-UID:a82d27f04473fc10cf690a3b26294a43
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T144500
-DTEND:20250411T154000
-SUMMARY:Watch Karl Create a Sega Genesis Song in 55 min!
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Join composer Karl Brueggemann as he battles against the clock
-  to create a (good) Sega Genesis tune in just 55 minutes! To add more pres
- sure\, Karl commits that whatever he creates on this panel stage\, he will
-  include on his upcoming FM Synth album High Flyer 2! Gotta compose fast! 
+UID:4dbdc0e3-1f1c-4b17-8c44-aab2e40cbdb8
+SUMMARY:Daniel Romberger
+LOCATION:Panels 1
+DTSTART:20260417T183000
+DTEND:20260417T192500
 END:VEVENT
 BEGIN:VEVENT
-UID:e80c9d8b1d84a97004d38164d955e4fa
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T151500
-DTEND:20250411T161000
-SUMMARY:VGM as a Vehicle for Introductory Jazz Arranging
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Video game music and jazz standards have more in common than o
- ne might initially think! This panel will dive into the shared elements of
-  music from those two worlds\, and provide some basic techniques for the n
- ew jazz arranger. 
+UID:39e5eb68-6ef3-4df8-8eaa-d2c2c94fd79b
+SUMMARY:Hans Fuerst
+LOCATION:Panels 1
+DTSTART:20260417T203000
+DTEND:20260417T212500
 END:VEVENT
 BEGIN:VEVENT
-UID:007392bccd2200dce0d2ba2d7676d1e7
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T160000
-DTEND:20250411T165500
-SUMMARY:Video Game Music Education for Everyone
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Let's talk about teaching video game music education! Dr. Nico
- le Harvey (@RedAuxPDX) Associate Professor at the University of Portland\,
-  will discuss her approach in teaching game music history and appreciation
-  to a mostly STEM-focused student base\, as well as the development of her
-  video game music class into the university's core humanities curriculum. 
- Jeremy Tellock (@DucksinDisguise)\, Director of Production and Design at P
- ixel Pond will discuss teaching students to compose music for games utiliz
- ing DAWs and FL Studio. 
+UID:7295229b-4895-4683-8e50-295e174c761e
+SUMMARY:Final Fancyfeet (a.k.a. Funhaver and Corva Jade)
+LOCATION:Panels 1
+DTSTART:20260417T214500
+DTEND:20260417T224000
 END:VEVENT
 BEGIN:VEVENT
-UID:5eb94078bac58f1b8af692347cdcf5c5
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T163000
-DTEND:20250411T172500
-SUMMARY:Voicings and Textures: Make Your Music Move!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Not sure how to build a chord? Don't know what rhythms to writ
- e? This panel will focus on one of the most overlooked elements of arrangi
- ng: voicings\, the way we choose to stack a chord and build off of it. Poo
- r voicings can muddy an arrangement without you even knowing\, while great
-  ones can make it shine. And from there\, we will see how you can turn tho
- se voicings into textures: moving lines for your musicians to perform. Thi
- s step-by-step process will give you a great idea on how to approach your 
- next arrangement\, and could even forever improve your entire music-making
-  process! 
+UID:1c6a50a5-f7bb-48f2-a3ae-ed1c01adc488
+SUMMARY:The Arkadian
+LOCATION:Panels 1
+DTSTART:20260417T230000
+DTEND:20260418T010000
 END:VEVENT
 BEGIN:VEVENT
-UID:56687498913c9221637ce5eebe54df52
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T180000
-DTEND:20250411T185500
-SUMMARY:SCORE! Crafting a Complete Soundtrack
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:What makes a great score so moving and memorable? Enjoy an exc
- iting and accessible tour through the building of a would-be-gamescore as 
- we construct musical story from the inside out. Weâ€™ll explore what 
- makes certain melodic choices so powerful\, how to evolve/explode your mat
- erial and how to uniquely support interactive media. Open for absolutely a
- ll\; fans and professionals alike. 
+UID:65465755-950c-427d-81e6-4888f7306d3e
+SUMMARY:akaLink
+LOCATION:Panels 2
+DTSTART:20260417T163000
+DTEND:20260417T172500
 END:VEVENT
 BEGIN:VEVENT
-UID:18c576d732bf2df7e9dd1d23d234e0aa
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T183000
-DTEND:20250411T192500
-SUMMARY:Inject some life and love into your music videos!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:After several years of improvement\, I've often been told that
-  my music videos feel full of love\, alive\, and engaging. I'm not a profe
- ssional videographer\, so in that light\, this is a presentation of the pr
- actical strategies and methods I've used to get my videos to this point. T
- hese will level up the look and feel of your performances\, and properly c
- onvey the care which goes into making your videos. Examples will include r
- udimentary color grading\, angle selection\, simple movement\, gimbal usag
- e\, and lens selection. Nothing here is advanced\, just simple strategies\
- , easy to understand\, and with huge payoff compared to the effort to lear
- n. 
+UID:75e93449-bf09-4bec-a794-7140b878fd5b
+SUMMARY:Brooke Ferd
+LOCATION:Panels 2
+DTSTART:20260417T174500
+DTEND:20260417T184000
 END:VEVENT
 BEGIN:VEVENT
-UID:f518f6db3f009c2983da1726af14dddc
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T191500
-DTEND:20250411T201000
-SUMMARY:How to Write for Horns in Your VGM Band!
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:
+UID:3ea1fabd-faeb-43ed-86db-6f7f4fad1506
+SUMMARY:Miguel Bulteau
+LOCATION:Panels 2
+DTSTART:20260417T190000
+DTEND:20260417T195500
 END:VEVENT
 BEGIN:VEVENT
-UID:bab58d8a9d7e5a96094c16384108b443
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T194500
-DTEND:20250411T204000
-SUMMARY:There Is No Easy Mode: Video Game Trivia
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Think you know all there is to know about those gosh-darn vide
- o games?! PROVE IT!! Assemble a group of your fellow gamers\, or play solo
- \, for a chance to answer a gauntlet of progressively difficult video game
-  trivia questions\, claim cool Canadian snack prizes\, and earn the title 
- of Trivia Champion of VGM CON 2025! Asking trivia questions from all eras 
- of gaming\, There Is No Easy Mode has a variety of question formats includ
- ing audio\, video and picture questions\, and more than a few tricky traps
-  from our host MooMan. 
+UID:2c09f450-7500-454d-b30b-592f3feab9f0
+SUMMARY:Thomas Kresge
+LOCATION:Panels 2
+DTSTART:20260417T210000
+DTEND:20260417T215500
 END:VEVENT
 BEGIN:VEVENT
-UID:3ecf1486c5bd313f4c8f896c662d6806
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250411T203000
-DTEND:20250411T212500
-SUMMARY:Unreal Tournament Audio Dairy!
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:
+UID:392cda34-722a-4167-b414-3f5491460558
+SUMMARY:Josh Pendlebury
+LOCATION:Panels 2
+DTSTART:20260417T221500
+DTEND:20260417T231000
 END:VEVENT
 BEGIN:VEVENT
-UID:95dad46944eed82fe159c52e697542d0
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T110000
-DTEND:20250412T115500
-SUMMARY:Beginning Conducting Workshop
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Learn the basics of conducting live musicians with Jamin Morde
- n\, the music director for the Washington Metropolitan Gamer Symphony Orch
- estra. This workshop will use excerpts and short VGM songs to cover simple
-  ideas such as easy beat patterns\, providing cues\, and maintaining tempo
- s. Time permitting\, we might also get into more advanced techniques (cuto
- ffs and expressive decisions).  
+UID:53fb4e94-9023-476c-a530-78ef06386cc0
+SUMMARY:Jamin Morden
+LOCATION:Panels 1
+DTSTART:20260418T100000
+DTEND:20260418T125500
 END:VEVENT
 BEGIN:VEVENT
-UID:7eb225f985413c3c02996ac88d23f719
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T113000
-DTEND:20250412T122500
-SUMMARY:Breath of the Wild Anew: Intro to Bingos
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Do you love Breath of the Wild\, but playing it feels stale? C
- ome bring your switch as Katie tells you about Breath of the Wild bingos a
- nd help you set up a bingo file so your adventures in Hyrule never have to
-  end. 
+UID:bffde693-1c3e-431c-aec0-65c169a9e6d6
+SUMMARY:Zack!
+LOCATION:Panels 1
+DTSTART:20260418T131500
+DTEND:20260418T141000
 END:VEVENT
 BEGIN:VEVENT
-UID:c96690d12b77ce5459a4e91b2f08fd5c
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T121500
-DTEND:20250412T131000
-SUMMARY:OC ReMix: 25 years of VGM Arrangements!
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:The OC ReMix community has showcased 4\,600+ game music ReMixe
- s since launching in 1999. With rock\, jazz\, funk\, electronic\, and so m
- uch more\, come experience OCR's unique & creative VGM arrangements! Come 
- join the judges and staff of OverClocked ReMix and learn just how many way
- s talented musicians interpret the game music they love! 
+UID:b31c3f55-db21-4d14-b452-af85db4067eb
+SUMMARY:Rebecca Larkin
+LOCATION:Panels 1
+DTSTART:20260418T143000
+DTEND:20260418T152500
 END:VEVENT
 BEGIN:VEVENT
-UID:e47ed1e8843b05766de993b2a7eb94ab
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T124500
-DTEND:20250412T134000
-SUMMARY:Transcribing VGM
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:This presentation will demonstrate the transcription process f
- or video game music\, specifically games from the third-fifth generations\
- , where the music was "performed" by the game's sound chip. Having these s
- cores is helpful for study and arrangement purposes\, but the process in c
- reating them helps one understand the technology of these consoles and how
-  the composer had to work with this tech in order to create the sounds the
- y wanted. 
+UID:ab078fe5-23c6-4e40-862f-1c09e7e9e857
+SUMMARY:The Game Brass
+LOCATION:Panels 1
+DTSTART:20260418T154500
+DTEND:20260418T164000
 END:VEVENT
 BEGIN:VEVENT
-UID:c15896d87a6492c3e90eb790512ca2b6
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T133000
-DTEND:20250412T142500
-SUMMARY:The Bruce Lees of Fighting Games
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Fei Long? Marshall Law? Liu Kang? There are dozens of Bruce Le
- e clones in fighting games but thereâ€™s even more Asian cinema influ
- ence in video games that you may not know of! Join the hosts of the Heroes
-  Three Podcast as they explore Asian film and its influence on video games
- . Discover the secret origins of some of your favorite characters\, stages
- \, and music! 
+UID:6254b885-7a55-42e2-bf1a-4de7ff2e0672
+SUMMARY:Heroes Three Podcast
+LOCATION:Panels 1
+DTSTART:20260418T174500
+DTEND:20260418T184000
 END:VEVENT
 BEGIN:VEVENT
-UID:e68cefef17d4b48547367e5e64c02a21
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T140000
-DTEND:20250412T145500
-SUMMARY:Dwelling of Duels: Tornado of Solos LP!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:Dwelling of Duels has been around for more than 20 years\, ser
- ving up monthly VGM competitions that anyone can participate in. While eve
- ry month generally has a theme that allows for a wide variety of songs to 
- be rearranged\, we're doing things differently here. For VGM Con\, we're h
- osting a special contest\, the Tornado of Solos\, where everyone has to ta
- ke on the SAME tune. 
+UID:c539db83-4776-4475-b3d4-6637497c7c1c
+SUMMARY:Skellybub
+LOCATION:Panels 1
+DTSTART:20260418T190000
+DTEND:20260418T195500
 END:VEVENT
 BEGIN:VEVENT
-UID:1fff4be325c719a4307eabaadb1f7bdc
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T144500
-DTEND:20250412T154000
-SUMMARY:Reading Sesh! (Saxes\, Brass\, & Percussion)
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Calling all brass band folks! Join low bazookist Scott Elsner 
- (PurpleLink33) and mid-low brass gremlin Brandon L. Harnish (Ranzha_) for 
- a fun-filled hour-and-a-half of brass band reading! 
+UID:500fb491-6b69-403e-9a30-0f1f165d70fa
+SUMMARY:Weebwitched
+LOCATION:Panels 1
+DTSTART:20260418T201500
+DTEND:20260418T211000
 END:VEVENT
 BEGIN:VEVENT
-UID:1f27edcc450ad696445b2602b11e6a05
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T151500
-DTEND:20250412T161000
-SUMMARY:Game Audio Integration Workshop!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:
+UID:9fcb3a96-ff01-4ec3-ba09-b378833a66c3
+SUMMARY:Grant Henry
+LOCATION:Panels 2
+DTSTART:20260418T112000
+DTEND:20260418T121000
 END:VEVENT
 BEGIN:VEVENT
-UID:b0f320d7bc4489e81792647c126d452f
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T160000
-DTEND:20250412T160000
-SUMMARY:Neurodiversity 101
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:To have a discussion about what the terms actually mean. 
+UID:0ff35691-e681-428d-a5f6-90dee08e7c61
+SUMMARY:Becca Michaelson
+LOCATION:Panels 2
+DTSTART:20260418T123000
+DTEND:20260418T132500
 END:VEVENT
 BEGIN:VEVENT
-UID:7e2ffd0a2845f4e756d42249ed7577d1
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T171500
-DTEND:20250412T181000
-SUMMARY:Arranging for Brass Quintet: A Live Demonstration
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:The Game Brass will be talking about the ins and outs of arran
- ging for brass instruments\, specifically for small ensemble groups like t
- hemselves. While presenting facts and fielding questions\, one of our memb
- ers will be arranging (in real-time) an audience-suggested piece\, which T
- he Game Brass will perform at the end of the panel. 
+UID:2794408d-a81d-4e55-9d59-60c534dd33db
+SUMMARY:Maestro J Garcia
+LOCATION:Panels 2
+DTSTART:20260418T134500
+DTEND:20260418T144000
 END:VEVENT
 BEGIN:VEVENT
-UID:deae8556059943070db764db5c393fd3
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T180000
-DTEND:20250412T184500
-SUMMARY:Lights\, Camera\, Games!
-LOCATION:Warp Stage/Board Room 2
-DESCRIPTION:
+UID:fbfab7fb-679b-4486-8ea7-465f9c5da8a0
+SUMMARY:SevenCastleForest
+LOCATION:Panels 2
+DTSTART:20260418T150000
+DTEND:20260418T155500
 END:VEVENT
 BEGIN:VEVENT
-UID:ee377192cc0e50868613a3d86f61080d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T180000
-DTEND:20250412T185500
-SUMMARY:The Music Theory of Sick Beats
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:This is going to be a highly educational panel all about rhyth
- ms\, time signatures\, and the sickest beats imaginable. In both my underg
- rad and master's degrees\, as well as spending lots of time studying Sunga
- zer and Tigran Hamasayan music\, I've developed a fascination for highly r
- hythmic based music. I wanted to distill what I know about rhythms into a 
- short 60 minute presentation. Here we are going to break down rhythmic con
- cepts from beginner to advanced\, picking apart songs across video game hi
- story\, and ultimately answering the question that has plagued humanity si
- nce the dawn of time: What truly is the sickest beat? 
+UID:fccfc480-adab-4c86-ad12-2333661daee7
+SUMMARY:Scott Elsner
+LOCATION:Panels 2
+DTSTART:20260418T170000
+DTEND:20260418T175500
 END:VEVENT
 BEGIN:VEVENT
-UID:297654079249240a3e72af723d235401
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T183000
-DTEND:20250412T192500
-SUMMARY:Pixelated Audio Podcast in Space!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:In honor of this year's VGMCon\, Pixelated Audio is digging in
- to game audio history for some of the best space-themed game music from th
- e serene to the downright baffling. Join us as we listen to some great VGM
-  across the decades\, space and time. 
+UID:1dd56148-30ee-49ba-a0e8-168498f71366
+SUMMARY:Liz Rishel
+LOCATION:Panels 2
+DTSTART:20260418T181500
+DTEND:20260418T191000
 END:VEVENT
 BEGIN:VEVENT
-UID:6c6b8266ddc557ebd099c7f66ab75e6f
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T191500
-DTEND:20250412T201000
-SUMMARY:Compoverse: How Compos Help Musicians Grow
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:During this panel\, Doug Arley (sgtrama) and starla will discu
- ss Compoverse\, a platform by ThaSauce Network for hosting and participati
- ng in community composition competitions\, AKA "compos." Panelists will ex
- plore a brief history of compos and explain how compos aid beginner and ex
- perienced musicians by creating a safe space for experimentation\, offerin
- g opportunities to develop crucial workflows\, and providing them with imm
- ediate feedback\, all under strict restraints. 
+UID:89ef39c4-5081-4ac0-8785-5d27a8f8cacb
+SUMMARY:Christopher Roman
+LOCATION:Panels 2
+DTSTART:20260418T193000
+DTEND:20260418T202500
 END:VEVENT
 BEGIN:VEVENT
-UID:bf90cbb4917eec646be0f5bdce5209ac
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T194500
-DTEND:20250412T204000
-SUMMARY:PurpleLink's Pub Trivia!
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:A fun mix of your favorite video game trivia delivered like we
-  were in your favorite pub (maybe without the beer). Join us for a great 1
- 0 question game and some fabulous(tm) prizes! 
+UID:250a8b3c-83ef-429b-b557-39020e8e7852
+SUMMARY:Carrie Wood
+LOCATION:Panels 2
+DTSTART:20260418T204500
+DTEND:20260418T214000
 END:VEVENT
 BEGIN:VEVENT
-UID:21082a74c7763d81150428a34a9cb8a0
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250412T203000
-DTEND:20250412T212500
-SUMMARY:Down Low Geek Show
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Hosted by geeks for geeks\, it's the Down Low Geek Show! From 
- drag to comedy to extreme VGM inside jokes and more\, you won't want to mi
- ss this eccentric and geek-filled cosplay celebration of our favorite fand
- oms. 
+UID:30b1fd7b-ae31-4d06-8615-7621ae6c735f
+SUMMARY:Brandon L. Harnish
+LOCATION:Panels 2
+DTSTART:20260418T223000
+DTEND:20260419T000000
 END:VEVENT
 BEGIN:VEVENT
-UID:6a3fb8adf805a4a997748f4e14c4a539
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T103000
-DTEND:20250413T112500
-SUMMARY:Sunday VGM Jazz Brunch with Dr. HD
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:
+UID:3c3206a4-c26a-4d06-a269-a9488741fd8e
+SUMMARY:dogsplusplus
+LOCATION:Panels 1
+DTSTART:20260419T110000
+DTEND:20260419T115500
 END:VEVENT
 BEGIN:VEVENT
-UID:c055fd90465d94abf381e2afc873ef54
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T110000
-DTEND:20250413T115500
-SUMMARY:My Learned Lessons in Nerdy Spaces & DEI
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:V\, a nonprofit professional and events programming coordinato
- r\, highlights key themes and real-world examples of lessons learned from 
- integrating DEI principles into spaces where they are most needed. 
+UID:c79a8494-fd1d-488c-a8c2-9b721802790b
+SUMMARY:GiIvaSunner
+LOCATION:Panels 1
+DTSTART:20260419T121500
+DTEND:20260419T131000
 END:VEVENT
 BEGIN:VEVENT
-UID:a4f4b0e02d3d1273e38c9b0e3785353d
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T114500
-DTEND:20250413T124000
-SUMMARY:VGM SPECIFICALLY is Good for your Mental Health
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:VGM DJ/Producer and Mental Health activist Theology takes you 
- through a journey to prove that video game music /specifically/ is good fo
- r your mental health. Using various scholarly sources and examples from hi
- s life\, come along and sharpen your critical thinking skills both as indi
- viduals and as a community alike. 
+UID:e861ea8f-10cf-4420-b52e-5af0a6b24944
+SUMMARY:Joshua Dieringer
+LOCATION:Panels 2
+DTSTART:20260419T113000
+DTEND:20260419T122500
 END:VEVENT
 BEGIN:VEVENT
-UID:f3136ec6f3f2775795f67180f71cf6fe
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T121500
-DTEND:20250413T131000
-SUMMARY:Streaming a 150-Member Orchestra with WMGSO
-LOCATION:Panels 2/Conference Room D
-DESCRIPTION:In this panel\, WMGSO Twitch Leadership “Ashleah\, David\, F
- abio\, and Jarel“provide a glimpse behind the curtain to share what it r
- eally takes to livestream video game orchestra performances. We'll cover d
- ifferent setup scenarios\, processes for coordinating with performance ven
- ues\, necessary equipment\, and how to fund it all on a nonprofit communit
- y orchestra budget. 
-END:VEVENT
-BEGIN:VEVENT
-UID:9ee44a5658121127be678dbaae5c0787
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T130000
-DTEND:20250413T135500
-SUMMARY:Odd Meters in VGM
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Join us as we dive into the fascinating world of odd meters in
-  video game music! This panel explores how irregular rhythms ”measures t
- hat don't fit into standard duple\, triple\, or compound meters”are used
-  as powerful narrative devices to convey emotions such as lightheartedness
- \, oddity\, unfamiliarity\, and panic. 
-END:VEVENT
-BEGIN:VEVENT
-UID:a9d594146a1da632b8aeb94abe976d40
-SEQUENCE:0
-DTSTAMP:20250328T000000Z
-DTSTART:20250413T141500
-DTEND:20250413T151000
-SUMMARY:How To Make Non-Corny Nerdcore with Joey Z
-LOCATION:Panels 1/Conference Room E
-DESCRIPTION:Joey makes rap music that many people regrettably describe as 
- "nerdcore". Joey thinks that basically everybody who makes nerdcore sucks 
- at making rap music. Joey would like to explain to you how to make music t
- hat will be described as "nerdcore"\, while also making music that Joey wo
- uld not describe as "unlistenable" 
+UID:d68a1e40-d48e-4e9f-8a2b-1fd0af062f74
+SUMMARY:Oliver Surpless
+LOCATION:Panels 2
+DTSTART:20260419T130000
+DTEND:20260419T135500
 END:VEVENT
 END:VCALENDAR

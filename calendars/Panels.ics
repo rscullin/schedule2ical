@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VGM CON 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fa599e8-8abb-4a81-9985-83eebc21ec87@vgmcon2026
+DTSTART:20260417T160000
+DTEND:20260417T171500
+SUMMARY:Panels Overview
+DESCRIPTION:Join Dr. James HD for an overview of the 2026 panels.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8df0ce-4c32-4df9-9341-794e72f36cb1@vgmcon2026
+DTSTART:20260417T163000
+DTEND:20260417T190000
+SUMMARY:How to Read a Lead Sheet
+DESCRIPTION:Learn how to read chords\, form\, and notation. Audience participation is encouraged.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:ed686fec-1104-42cb-a160-ad2d95b8fad1@vgmcon2026
+DTSTART:20260417T171500
+DTEND:20260417T183000
+SUMMARY:New Record! A Guide to Making VGM Albums
+DESCRIPTION:An engaging panel and Q&A to creating your first or next video game cover album with a dynamic\, comedic duo.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:d219b364-567c-491c-9e2b-79b7b7cba57d@vgmcon2026
+DTSTART:20260417T183000
+DTEND:20260417T203000
+SUMMARY:Phrase Rhythm in Video Game Melodies
+DESCRIPTION:Learn what phrase rhythm is and how it helps shape some of the most beloved VGM tracks of all time!
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:20fc4fd3-e6c5-4cd0-a334-c44439e69f73@vgmcon2026
+DTSTART:20260417T190000
+DTEND:20260417T210000
+SUMMARY:Majora: writing an opera about Majora's Mask
+DESCRIPTION:A look into the 14-year project of adapting Zelda to a real-life grand opera.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e42b6c-49b2-4288-9292-884041ae6561@vgmcon2026
+DTSTART:20260417T203000
+DTEND:20260417T214500
+SUMMARY:Musical Cliches in VGM
+DESCRIPTION:Enter the world of the VGM sound and the theory/history of classic VGM cliches.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:a935ed52-ddf1-4e3e-856e-9e552f399b26@vgmcon2026
+DTSTART:20260417T210000
+DTEND:20260417T221500
+SUMMARY:Sketch to Score: A Live Orchestral Arrangement
+DESCRIPTION:Watch an orchestral arrangement unfold in real-time based on audience suggestions.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:0a07ef2f-b464-4643-9657-5f94c5809adf@vgmcon2026
+DTSTART:20260417T214500
+DTEND:20260417T230000
+SUMMARY:Elden Swing
+DESCRIPTION:All-levels swing dance lesson followed by an open-whirl adventure with VGM swing tunes.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:4a57c970-a469-4566-82ba-5bf70b1da80e@vgmcon2026
+DTSTART:20260417T221500
+DTEND:20260417T231500
+SUMMARY:My Pokemans: Let Me Show You Them
+DESCRIPTION:Learn all about the challenges of being an avid Pokemon collector and "living form dexes."
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e8b494-e7c3-44f2-8905-5248910ee01c@vgmcon2026
+DTSTART:20260417T230000
+DTEND:20260418T000000
+SUMMARY:Kiss Meets the Phantom of the Park Watch Party
+DESCRIPTION:A rock n roll movie party watching the campy cult classic "Kiss Meets the Phantom of the Park".
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:20349462-b761-4c0e-8829-aa7805df1ba7@vgmcon2026
+DTSTART:20260418T100000
+DTEND:20260418T110000
+SUMMARY:Beginning Conducting Workshop
+DESCRIPTION:Learn or refine the basics of conducting with the director of the WMGSO!
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:efe6bba1-5510-448e-a9a2-2124166cfc64@vgmcon2026
+DTSTART:20260418T112000
+DTEND:20260418T123000
+SUMMARY:Multiball Melodies: The History of Pinball Music
+DESCRIPTION:Join Stemage for a journey through the history of pinball music and a look at modern pinball audio.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:9328077c-20e9-46c8-adc5-f78e2ad630b3@vgmcon2026
+DTSTART:20260418T123000
+DTEND:20260418T134500
+SUMMARY:Incorporating Video Game Music in the Classroom
+DESCRIPTION:See ways you can use VGM to sing\, read\, compose\, improvise\, and move in an educational setting.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:d019279e-4321-4c7a-94cd-1ebf6e07e6dd@vgmcon2026
+DTSTART:20260418T131500
+DTEND:20260418T143000
+SUMMARY:OverClocked ReMix Podcast Live
+DESCRIPTION:A live recording of the OverClocked ReMix podcast.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f9b9c1-f437-490d-855e-5b422e0b9286@vgmcon2026
+DTSTART:20260418T134500
+DTEND:20260418T150000
+SUMMARY:Mastering the 12 Musical Elements
+DESCRIPTION:Explore the infinite possibilities behind perceiving musical elements to level up your perspective.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:9b87bf55-0385-4df5-b359-cdde11564f24@vgmcon2026
+DTSTART:20260418T143000
+DTEND:20260418T154500
+SUMMARY:Duet for Flute and Video Game
+DESCRIPTION:Explore the commonalities between gaming and improvised musical performance.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:665a4640-382f-42bd-88b8-49305ab485cf@vgmcon2026
+DTSTART:20260418T150000
+DTEND:20260418T170000
+SUMMARY:Making Chiptunes with No Musical Background
+DESCRIPTION:Learn how to start making chiptunes using trackers and free tools\, even with no prior training.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:e78704f1-d549-42c1-be66-dfcf01477716@vgmcon2026
+DTSTART:20260418T154500
+DTEND:20260418T174500
+SUMMARY:Complete Soundtrack Replacements as Game Mods
+DESCRIPTION:Discussing the process of modding full brass arrangements into Zelda and Sonic games.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:221f37b5-9a84-4054-adcd-5c6cd0062bb6@vgmcon2026
+DTSTART:20260418T170000
+DTEND:20260418T181500
+SUMMARY:Gamer Bones Reading Session
+DESCRIPTION:A trombone / low-brass focused reading session where we play as much as we can!
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:4897eb2b-f95b-4c10-931d-5c0d8c0befe3@vgmcon2026
+DTSTART:20260418T174500
+DTEND:20260418T190000
+SUMMARY:Composer Crossover - Asian Cinema in VGM
+DESCRIPTION:Explore where the worlds of video game music and Asian cinema intersect.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:5d170a8b-f908-4816-b5da-af234b8519ff@vgmcon2026
+DTSTART:20260418T181500
+DTEND:20260418T193000
+SUMMARY:“Behind the Seams” Prepping a live show remotely
+DESCRIPTION:How to mount a 50-minute stage show in 2 days with performers from across the country.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:c70970d7-b7a3-43eb-a253-fe8a3f517f98@vgmcon2026
+DTSTART:20260418T190000
+DTEND:20260418T201500
+SUMMARY:New Jack Spring!
+DESCRIPTION:Explore how New Jack Swing shaped the music of Sonic the Hedgehog.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:e1347ad3-c20a-457f-8284-f4e670c39d51@vgmcon2026
+DTSTART:20260418T193000
+DTEND:20260418T204500
+SUMMARY:OverClocked ReMix: A year-by-year retrospective
+DESCRIPTION:Join the staff for a year-by-year retrospective of the site's 25-year history.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:91e065a8-7ac2-4394-8309-193787e38540@vgmcon2026
+DTSTART:20260418T201500
+DTEND:20260418T211500
+SUMMARY:The Down Low Geek Show
+DESCRIPTION:An eccentric cosplay celebration featuring drag\, burlesque\, and live music.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:2c82870f-fd5b-4cea-9cbd-17a5b5639f6b@vgmcon2026
+DTSTART:20260418T204500
+DTEND:20260418T223000
+SUMMARY:Dwelling of Duels: Tornado of Solos Party!
+DESCRIPTION:A listening party for the "Tornado of Solos" competition where everyone remixes the same source.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e87922-eb72-495d-a1d2-e60736f2ae77@vgmcon2026
+DTSTART:20260418T223000
+DTEND:20260418T233000
+SUMMARY:Nerd S* After Dark: Conquering Rubik's Cube
+DESCRIPTION:A late-night workshop on how to solve the Rubik's Cube. Cubes provided!
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb36c2a-2eb3-4448-836f-3403040a8808@vgmcon2026
+DTSTART:20260419T110000
+DTEND:20260419T121500
+SUMMARY:Game Boy Chiptune and Sound Design
+DESCRIPTION:Learn about the Game Boy sound chip and how chiptune design has evolved over 25 years.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:8fce250d-7bf6-4526-9c1c-2d2e2c17b04b@vgmcon2026
+DTSTART:20260419T121500
+DTEND:20260419T131500
+SUMMARY:SiIvaGunner: Recreating SNES Music in Modern DAWs
+DESCRIPTION:SiIvaGunner demonstrates how to replicate the distinct SNES tone in modern software.
+LOCATION:Panels 1 (Conference Room E)
+END:VEVENT
+BEGIN:VEVENT
+UID:343788b1-207e-4d9d-a9ed-d911a807c443@vgmcon2026
+DTSTART:20260419T130000
+DTEND:20260419T140000
+SUMMARY:Chrono Trigger’s 30th Anniversary - Yes Indeed!
+DESCRIPTION:Celebrate the 30th anniversary of this seminal SNES RPG classic.
+LOCATION:Panels 2 (Conference Room D)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VGM CON 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5ac05c60-66aa-4fb3-9b12-b56a70e82fac@vgmcon2026
+DTSTART:20260417T140000
+DTEND:20260417T150000
+SUMMARY:Sight-reading Power Hour
+DESCRIPTION:Sight-Reading Power Hour: Work your sight-reading chops with curated courses of deep cuts from our VGM library that you probably haven't played before!
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2f2422-bbe4-4f69-8e07-b56379b016e9@vgmcon2026
+DTSTART:20260417T150000
+DTEND:20260417T170000
+SUMMARY:Jams (2-Hour Session)
+DESCRIPTION:Jams hosted by Jam Space: All levels welcome! Whether you want to solo or just comp along\, we're here to get you playing with a huge library of optional video game lead sheets powered by VGLeadSheets.com.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b0b8c9-86a4-45c0-8fa6-a57e174e3e2a@vgmcon2026
+DTSTART:20260417T170000
+DTEND:20260417T180000
+SUMMARY:Musical charades
+DESCRIPTION:Musical charades: Which team of 2-5 will get the audience to guess the most of their clues within a 6-minute window? Come to give clues as part of a band or guess from the audience.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa6bc96-6165-435b-9160-e1290d3c57cf@vgmcon2026
+DTSTART:20260417T180000
+DTEND:20260417T200000
+SUMMARY:Live Arrangement\, Recording\, and Mixing Demo
+DESCRIPTION:Live Arrangement\, Recording\, and Mixing Demo\, featuring Mustin: Mustin of The OneUps will lead a band through creating an arrangement and walk step-by-step through the recording and mixing process.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:e64bb9e1-0d34-4f6a-a2de-500dc9c63c92@vgmcon2026
+DTSTART:20260417T200000
+DTEND:20260417T210000
+SUMMARY:Jams (Until Close)
+DESCRIPTION:
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:71a7bb63-385a-40d3-a4aa-6901be9e9acd@vgmcon2026
+DTSTART:20260418T100000
+DTEND:20260418T110000
+SUMMARY:Let’s Score a Video Game
+DESCRIPTION:Let’s Score a Video Game!: Let’s imagine our own RPG together… what would the soundtrack sound like? Come make creative decisions and make a soundtrack in real time!
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:d01aa0f2-a10d-4342-8c99-bb4fc11c6660@vgmcon2026
+DTSTART:20260418T110000
+DTEND:20260418T130000
+SUMMARY:Jams\, Circles\, Games\, & Cyphers (2-Hour Session)
+DESCRIPTION:Jams\, Circles\, Games\, & Cyphers: Different Types of Jams: Learn how to jam in jazz\, blues\, hip-hop and more! Ashanti Mills helps attendees compare and contrast different types of jam.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7058f8-320b-41da-ab04-f0a1890969e8@vgmcon2026
+DTSTART:20260418T130000
+DTEND:20260418T140000
+SUMMARY:Mario Kart
+DESCRIPTION:Mario Kart World: Come to throw down in Mario Kart\, or come to be part of the backing band! We’ll be turning the music off so that the band can play the soundtrack live.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:62ac15b2-ab27-4e17-8b1c-6480dd3f87fe@vgmcon2026
+DTSTART:20260418T140000
+DTEND:20260418T150000
+SUMMARY:Jams (5-Hour Session)
+DESCRIPTION:
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:56c89f25-a9b5-4698-a54b-a4b0c12a7b3b@vgmcon2026
+DTSTART:20260418T190000
+DTEND:20260418T200000
+SUMMARY:Latin Jams hour
+DESCRIPTION:Latin Jams hour: Do you like themed jam hours? Come play tunes in Latin styles with Jake Gabriszeski and Thomas Scheevel!
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e2858b-e1c3-48de-b4a9-83f6aa734260@vgmcon2026
+DTSTART:20260418T200000
+DTEND:20260418T210000
+SUMMARY:Hip-hop Jam led by Joey Z
+DESCRIPTION:Hip-hop Jam led by Joey Z: An educational Hip-Hop Takeover on how to seamlessly integrate a lyricist into your jam sessions and engage with spoken words.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:9718a5ba-e9f9-46f5-9fe6-884d889ba515@vgmcon2026
+DTSTART:20260418T210000
+DTEND:20260418T230000
+SUMMARY:Wheel of Arrangement (2-Hour Session)
+DESCRIPTION:Wheel of Arrangement: Learn about jam-mate communication as we throw twists at songs (like "as a bossa" or "in 5/4") based on the whims of the Wheel of Arrangement.
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:d6286121-5dd4-4456-b459-c61fea767dda@vgmcon2026
+DTSTART:20260418T230000
+DTEND:20260419T000000
+SUMMARY:Jams (Until Close)
+DESCRIPTION:
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:2098f779-6cd9-4a49-a642-cfd3fe2ec17d@vgmcon2026
+DTSTART:20260419T100000
+DTEND:20260419T110000
+SUMMARY:Acoustic Jams hour
+DESCRIPTION:Acoustic Jams hour: It’s morning\, it’s chill. Acoustic instruments and voice only for an hour!
+LOCATION:Jam Space
+END:VEVENT
+BEGIN:VEVENT
+UID:e9400dbb-1a53-454c-ba04-06934a808ff0@vgmcon2026
+DTSTART:20260419T110000
+DTEND:20260419T120000
+SUMMARY:Jams (Until Close/4:00 PM)
+DESCRIPTION:
+LOCATION:Jam Space
+END:VEVENT
+END:VCALENDAR

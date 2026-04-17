@@ -1,7 +1,102 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//sebbo.net//ical-generator//EN
-METHOD:REQUEST
-NAME:VGMCon 2024 - Gaming
-X-WR-CALNAME:VGMCon 2024 - Gaming
+PRODID:-//VGM CON 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de30c317-0050-4cca-b3b2-28e11ae7da31@vgmcon2026
+DTSTART:20260417T190000
+DTEND:20260417T200000
+SUMMARY:World of Warcraft PVE
+DESCRIPTION:Join the 2D Fam as they run Dungeons and Delves in World of Warcraft: Midnight
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:b696f243-037d-4b4e-bca3-3239372c5fd2@vgmcon2026
+DTSTART:20260417T200000
+DTEND:20260417T220000
+SUMMARY:Mario Kart World
+DESCRIPTION:Get in gear and race for the best time in Mario Kart World
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:42a6e8a6-f40b-4e46-9e92-a94cf04ea4a8@vgmcon2026
+DTSTART:20260417T220000
+DTEND:20260417T230000
+SUMMARY:Jackbox Games
+DESCRIPTION:(18+) Late night shenanigans with popular Jackbox Games like Quiplash\, Fibbage\, Drawful\, Trivia Murder Party\, and more!
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:75d7dbc8-4172-4273-a743-1d11c9a04079@vgmcon2026
+DTSTART:20260418T110000
+DTEND:20260418T120000
+SUMMARY:Kingdom Hearts
+DESCRIPTION:The 2D Fam plays various Kingdom Hearts titles
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:06960675-4210-4fba-8a92-9b9096f03dd8@vgmcon2026
+DTSTART:20260418T120000
+DTEND:20260418T140000
+SUMMARY:Donkey Konga
+DESCRIPTION:It's on like Donkey Kong\, stay on beat and get the high score
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:02d6481b-6d3e-4784-bf2d-0f32c4e203b5@vgmcon2026
+DTSTART:20260418T140000
+DTEND:20260418T150000
+SUMMARY:Super Smash Bros Ultimate
+DESCRIPTION:Casually competitive Super Smash Bros Ultimate Tournament
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:1704ebe3-5978-4e23-ae17-26edbf818bed@vgmcon2026
+DTSTART:20260418T190000
+DTEND:20260418T200000
+SUMMARY:OSU
+DESCRIPTION:Love it or hate it\, can you get the high score?
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ca53d6-1d8f-460d-83a2-ded8b907efa7@vgmcon2026
+DTSTART:20260418T200000
+DTEND:20260418T220000
+SUMMARY:Pokemon Pokopia
+DESCRIPTION:Come play Pokopia with us. Bring your switch and show off your Island
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:3723fe41-206b-43b4-b48a-de4513d3d3db@vgmcon2026
+DTSTART:20260418T220000
+DTEND:20260418T234500
+SUMMARY:Jackbox Games
+DESCRIPTION:(18+) Late night shenanigans with popular Jackbox Games like Quiplash\, Fibbage\, Drawful\, Trivia Murder Party\, and more!
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:45814fc7-be16-49c4-9459-6404f71562d1@vgmcon2026
+DTSTART:20260418T234500
+DTEND:20260419T004500
+SUMMARY:Karaoke
+DESCRIPTION:Want to belt out your favorite video game song? Join us for super late night karaoke!
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:cec37a86-21c9-4a56-80a9-5ef487c8bacf@vgmcon2026
+DTSTART:20260419T110000
+DTEND:20260419T120000
+SUMMARY:Mario Party Pajamboree
+DESCRIPTION:Sunday mornings are hard. Wear your Pajamas and play a round of Mario Party. It's a Pajamboree
+LOCATION:Conference Room H and I
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d47cc6-f979-4061-8225-84d2b15964ce@vgmcon2026
+DTSTART:20260419T120000
+DTEND:20260419T130000
+SUMMARY:World of Warcraft PVP
+DESCRIPTION:Our resident PVP expert playing rated battlegrounds
+LOCATION:Conference Room H and I
+END:VEVENT
 END:VCALENDAR
